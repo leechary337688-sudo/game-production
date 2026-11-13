@@ -1,0 +1,19 @@
+{
+  "id": 2019,
+  "name": "光子网络技能",
+  "en_name": "photon",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "Photon技能是一个用于游戏和实时应用开发的网络集成工具，专注于Photon PUN和Fusion框架。它提供房间创建与管理、远程过程调用(RPC)、实时状态同步等功能，是实现多人在线游戏、实时协作应用和联网功能的核心技术。关键词：Photon PUN, Photon Fusion, 游戏网络, 实时通信, 房间管理, RPC, 状态同步, 多人在线, 联网开发。",
+  "installs": 0,
+  "views": 35,
+  "updated": "2026-02-25",
+  "original_name": "photon.zip",
+  "file_size": 485,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2019",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏"
+  ]
+}

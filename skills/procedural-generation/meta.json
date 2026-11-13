@@ -1,0 +1,20 @@
+{
+  "id": 2027,
+  "name": "程序化生成",
+  "en_name": "procedural-generation",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能专注于程序化内容生成（PCG）算法，用于自动创建游戏关卡、地图、纹理等数字内容。通过算法和规则驱动，实现高效、多样且可扩展的内容生产，广泛应用于游戏开发、模拟仿真和数字艺术领域。关键词：程序化生成、PCG算法、游戏关卡生成、内容生成算法、自动化内容创建",
+  "installs": 1,
+  "views": 136,
+  "updated": "2026-02-25",
+  "original_name": "procedural-generation.zip",
+  "file_size": 449,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2027",
+  "found_via": [
+    "category:游戏开发",
+    "search:关卡",
+    "search:游戏开发"
+  ]
+}

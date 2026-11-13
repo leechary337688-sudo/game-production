@@ -1,0 +1,20 @@
+{
+  "id": 2031,
+  "name": "根运动",
+  "en_name": "root-motion",
+  "category": "动作捕捉",
+  "parent_category": "三维与游戏",
+  "description": "根运动技能是一种用于游戏角色动画与物理移动同步的技术。它通过提取动画数据中的位移信息，驱动游戏对象的物理位置，实现动画与移动的精准匹配，提升角色动作的真实感和沉浸感。关键词：根运动，动画同步，角色移动，游戏开发，动画技术，位移匹配。",
+  "installs": 2,
+  "views": 70,
+  "updated": "2026-02-25",
+  "original_name": "root-motion.zip",
+  "file_size": 423,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2031",
+  "found_via": [
+    "category:三维与游戏",
+    "category:动作捕捉",
+    "search:动画"
+  ]
+}

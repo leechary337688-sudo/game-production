@@ -1,0 +1,18 @@
+{
+  "id": 2043,
+  "name": "地形",
+  "en_name": "terrain",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "地形技能用于游戏中的地形系统，主要处理高度图、混合贴图和植被生成。关键词：地形系统，高度图，混合贴图，植被生成，游戏开发，Terrain skill，heightmaps，splatmaps，vegetation。",
+  "installs": 0,
+  "views": 19,
+  "updated": "2026-02-25",
+  "original_name": "terrain.zip",
+  "file_size": 427,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2043",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

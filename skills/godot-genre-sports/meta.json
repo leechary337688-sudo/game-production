@@ -1,0 +1,18 @@
+{
+  "id": 13327,
+  "name": "Godot体育游戏开发蓝图",
+  "en_name": "godot-genre-sports",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是用于在Godot游戏引擎中开发体育游戏的专家蓝图，涵盖球体物理模拟（如马格努斯效应）、团队AI阵型、上下文输入控制和广播相机系统。适用于构建足球、篮球、曲棍球等体育游戏，关键词包括：Godot、体育游戏、物理引擎、AI行为、游戏开发、球体物理、阵型战术。",
+  "installs": 0,
+  "views": 36,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-sports.zip",
+  "file_size": 4829,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13327",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

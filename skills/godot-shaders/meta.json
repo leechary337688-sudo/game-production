@@ -1,0 +1,20 @@
+{
+  "id": 1996,
+  "name": "Godot着色器技能",
+  "en_name": "godot-shaders",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "本技能专注于Godot游戏引擎的着色器开发，涵盖视觉着色器创建、自定义渲染管线、材质特效制作、后处理效果实现等核心功能。适用于游戏开发者、图形程序员、技术美术师，提供从原型设计到性能优化的完整着色器解决方案。关键词：Godot着色器、视觉着色器、游戏渲染、材质特效、GLSL、后处理、游戏开发、图形编程。",
+  "installs": 1,
+  "views": 58,
+  "updated": "2026-02-25",
+  "original_name": "godot-shaders.zip",
+  "file_size": 1557,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1996",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:美术"
+  ]
+}

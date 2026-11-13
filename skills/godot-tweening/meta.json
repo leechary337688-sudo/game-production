@@ -1,0 +1,18 @@
+{
+  "id": 13288,
+  "name": "GodotTween动画",
+  "en_name": "godot-tweening",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于在Godot游戏引擎中使用Tween系统创建流畅的动画效果，包括属性过渡、UI交互、摄像机移动和游戏特效，提升用户体验和游戏质感。关键词：Godot, Tween, 动画, 缓动, 插值, 游戏开发, 程序化动画, UI动画。",
+  "installs": 2,
+  "views": 51,
+  "updated": "2026-03-23",
+  "original_name": "godot-tweening.zip",
+  "file_size": 4449,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13288",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

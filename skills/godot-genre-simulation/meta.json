@@ -1,0 +1,22 @@
+{
+  "id": 13328,
+  "name": "Godot模拟游戏开发蓝图",
+  "en_name": "godot-genre-simulation",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了使用Godot引擎开发模拟和经济类游戏的完整专家指南，涵盖经济管理、时间系统、NPC模拟、反馈循环等关键模块，帮助开发者快速构建管理模拟、城市建造、资源优化等游戏类型。关键词：模拟游戏、Godot开发、经济系统、资源管理、反馈循环、游戏设计、蓝图。",
+  "installs": 7,
+  "views": 345,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-simulation.zip",
+  "file_size": 5644,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13328",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发",
+    "search:游戏设计"
+  ]
+}

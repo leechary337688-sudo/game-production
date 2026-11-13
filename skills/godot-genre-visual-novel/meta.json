@@ -1,0 +1,21 @@
+{
+  "id": 13323,
+  "name": "Godot视觉小说开发技能",
+  "en_name": "godot-genre-visual-novel",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了在Godot引擎中开发视觉小说游戏的完整指南，包括分支叙事、对话系统、选择后果、回滚机制和品质功能实现。关键词：视觉小说、Godot、分支叙事、对话系统、回滚、bbcode、游戏开发。",
+  "installs": 3,
+  "views": 254,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-visual-novel.zip",
+  "file_size": 5664,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13323",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

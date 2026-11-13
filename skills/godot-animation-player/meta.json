@@ -1,0 +1,18 @@
+{
+  "id": 13363,
+  "name": "Godot动画播放器",
+  "en_name": "godot-animation-player",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能用于Godot游戏引擎中的AnimationPlayer系统，实现时间线动画制作和管理，包括角色动画、UI过渡、过场动画、根运动提取、程序化动画生成等功能。关键词：动画播放、关键帧、时间线、游戏开发、UI动画、根运动、程序化动画、轨道类型、动画回调。",
+  "installs": 1,
+  "views": 42,
+  "updated": "2026-03-23",
+  "original_name": "godot-animation-player.zip",
+  "file_size": 6501,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13363",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

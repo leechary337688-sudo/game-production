@@ -1,0 +1,19 @@
+{
+  "id": 13321,
+  "name": "Godot库存系统技能",
+  "en_name": "godot-inventory-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个用于Godot游戏引擎的库存系统技能，涵盖槽位管理、堆叠逻辑、重量限制、装备系统和拖放UI。适用于构建RPG库存、生存物品管理或战利品系统。关键词：库存系统、Godot、槽位、堆叠、装备、制作、资源管理。",
+  "installs": 0,
+  "views": 35,
+  "updated": "2026-03-23",
+  "original_name": "godot-inventory-system.zip",
+  "file_size": 4775,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13321",
+  "found_via": [
+    "category:游戏开发",
+    "search:RPG"
+  ]
+}

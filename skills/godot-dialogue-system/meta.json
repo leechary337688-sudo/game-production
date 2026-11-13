@@ -1,0 +1,20 @@
+{
+  "id": 13353,
+  "name": "Godot对话系统开发",
+  "en_name": "godot-dialogue-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于在Godot游戏引擎中设计和实现灵活、数据驱动的对话系统，支持分支对话、角色肖像、玩家选择、条件对话、打字机效果、本地化和语音集成。适用于叙事游戏、RPG或视觉小说开发。关键词：Godot对话系统、游戏开发、分支对话、本地化、语音集成、数据驱动、对话图、条件逻辑。",
+  "installs": 1,
+  "views": 42,
+  "updated": "2026-03-23",
+  "original_name": "godot-dialogue-system.zip",
+  "file_size": 4744,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13353",
+  "found_via": [
+    "category:游戏开发",
+    "search:RPG",
+    "search:玩家"
+  ]
+}

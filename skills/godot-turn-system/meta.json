@@ -1,0 +1,23 @@
+{
+  "id": 13289,
+  "name": "Godot回合制战斗系统",
+  "en_name": "godot-turn-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个用于Godot游戏引擎的回合制战斗系统蓝图，提供回合顺序管理、行动点系统、阶段管理、时间轴系统和专家实现，适用于策略和RPG游戏开发，包含速度基础的主动性、中断和同时回合等关键词，方便SEO搜索游戏开发、回合制战斗、Godot插件。",
+  "installs": 3,
+  "views": 214,
+  "updated": "2026-03-23",
+  "original_name": "godot-turn-system.zip",
+  "file_size": 3908,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13289",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:RPG",
+    "search:战斗",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

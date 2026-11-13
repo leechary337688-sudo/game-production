@@ -1,0 +1,20 @@
+{
+  "id": 2010,
+  "name": "动作匹配",
+  "en_name": "motion-matching",
+  "category": "Maya动画",
+  "parent_category": "三维与游戏",
+  "description": "Motion Matching（动作匹配）是一种用于动画数据库的数据驱动动画技术。它通过实时搜索和匹配预录制的动画片段库，根据角色当前状态（如位置、速度、朝向）和玩家输入，动态合成流畅、逼真的角色动画。该技术广泛应用于游戏开发、影视动画和虚拟现实等领域，能显著提升角色动画的自然度和响应性。\n\n关键词：动作匹配，Motion Matching，数据驱动动画，游戏动画，角色动画，动画数据库，实时动画合成，游戏开发，动画技术",
+  "installs": 0,
+  "views": 51,
+  "updated": "2026-02-25",
+  "original_name": "motion-matching.zip",
+  "file_size": 422,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2010",
+  "found_via": [
+    "category:Maya动画",
+    "category:三维与游戏",
+    "search:玩家"
+  ]
+}

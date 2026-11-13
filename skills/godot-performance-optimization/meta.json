@@ -1,0 +1,19 @@
+{
+  "id": 13312,
+  "name": "Godot游戏性能优化技能",
+  "en_name": "godot-performance-optimization",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是关于使用 Godot 游戏引擎进行性能分析和优化的专家技能。它涵盖使用 Godot Profiler、对象池化、可见性剔除等技术来诊断帧率下降、内存泄漏、绘制调用过多等问题，并优化游戏性能以达到目标 FPS。关键词：性能优化、Godot Profiler、对象池、可见性剔除、瓶颈识别、游戏开发。",
+  "installs": 2,
+  "views": 60,
+  "updated": "2026-03-23",
+  "original_name": "godot-performance-optimization.zip",
+  "file_size": 3268,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13312",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

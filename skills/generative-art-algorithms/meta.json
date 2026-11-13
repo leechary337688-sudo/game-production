@@ -1,0 +1,18 @@
+{
+  "id": 6454,
+  "name": "生成式艺术算法",
+  "en_name": "generative-art-algorithms",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于使用数学模式、噪声函数、粒子系统和程序生成来创建算法和生成式艺术。涵盖流场、L-系统、分形和创意编程基础，适用于生成式艺术、算法艺术、创意编程或数学可视化项目。关键词：生成式艺术、算法艺术、创意编程、噪声函数、流场、分形、粒子系统、程序生成。",
+  "installs": 0,
+  "views": 28,
+  "updated": "2026-03-07",
+  "original_name": "generative-art-algorithms.zip",
+  "file_size": 12421,
+  "github_project": "organvm",
+  "url": "https://www.skillsbot.cn/skill/6454",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

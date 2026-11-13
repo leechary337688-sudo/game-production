@@ -1,0 +1,18 @@
+{
+  "id": 13342,
+  "name": "Godot引擎空闲点击游戏开发技能",
+  "en_name": "godot-genre-idle-clicker",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于使用Godot引擎开发空闲点击游戏，提供完整的蓝图，包括大数字处理、指数增长曲线、生成器系统、离线进度计算和声望机制。关键词：空闲游戏、点击游戏、Godot、游戏开发、数字格式化、声望系统、增量游戏。",
+  "installs": 0,
+  "views": 56,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-idle-clicker.zip",
+  "file_size": 5144,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13342",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

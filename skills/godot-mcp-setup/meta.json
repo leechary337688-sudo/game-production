@@ -1,0 +1,21 @@
+{
+  "id": 13318,
+  "name": "GodotMCP配置技能",
+  "en_name": "godot-mcp-setup",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能用于安装和配置 Godot MCP 服务器，实现程序化场景构建和自动化操作，适用于 AI 代理进行游戏场景管理。关键词：Godot MCP, 场景自动化, Model Context Protocol, 程序化场景, AI 代理, 游戏开发自动化, MCP 配置, 量化交易无关。",
+  "installs": 0,
+  "views": 340,
+  "updated": "2026-03-23",
+  "original_name": "godot-mcp-setup.zip",
+  "file_size": 3553,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13318",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1977,
+  "name": "翻页动画",
+  "en_name": "flipbook",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "翻页动画技能用于处理精灵图集纹理，实现逐帧动画效果。该技能支持读取、搜索、写入、脚本执行、编辑、文件匹配和网络获取等工具，适用于游戏开发、UI动画和动态图形制作中的序列帧动画生成与管理。",
+  "installs": 0,
+  "views": 87,
+  "updated": "2026-02-25",
+  "original_name": "flipbook.zip",
+  "file_size": 413,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1977",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:动画"
+  ]
+}

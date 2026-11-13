@@ -1,0 +1,20 @@
+{
+  "id": 2054,
+  "name": "Unity高清渲染管线配置",
+  "en_name": "unity-hdrp",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "Unity高清渲染管线（HDRP）配置技能，专注于高保真图形渲染。提供光线追踪、体积雾、物理光照、材质系统等AAA级游戏图形效果的完整配置方案。适用于游戏开发、影视制作、实时可视化等领域，帮助开发者实现逼真的渲染效果和高效的性能优化。关键词：Unity HDRP，高清渲染管线，光线追踪，体积效果，游戏图形，实时渲染，材质系统，物理光照。",
+  "installs": 0,
+  "views": 46,
+  "updated": "2026-02-25",
+  "original_name": "unity-hdrp.zip",
+  "file_size": 1924,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2054",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:Unity"
+  ]
+}

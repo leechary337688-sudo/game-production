@@ -1,0 +1,19 @@
+{
+  "id": 1990,
+  "name": "Godot3D渲染技能",
+  "en_name": "godot-3d",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能专注于Godot引擎的3D游戏开发与渲染，提供PBR材质配置、环境光照设置、3D场景构建与摄像机控制等核心功能，帮助开发者高效创建高质量的3D游戏场景与视觉效果。",
+  "installs": 1,
+  "views": 50,
+  "updated": "2026-02-25",
+  "original_name": "godot-3d.zip",
+  "file_size": 746,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1990",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D"
+  ]
+}

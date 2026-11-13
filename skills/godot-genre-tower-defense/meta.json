@@ -1,0 +1,20 @@
+{
+  "id": 13324,
+  "name": "塔防游戏开发蓝图",
+  "en_name": "godot-genre-tower-defense",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是塔防游戏的专家蓝图，专门用于Godot引擎开发。它覆盖了波管理、塔目标逻辑、路径算法、经济平衡和迷宫机制，帮助开发者快速构建塔防、线路防御或塔放置策略游戏。关键词：塔防游戏、Godot开发、游戏开发、蓝图、技能、波生成器、路径查找、目标优先级、经济系统。",
+  "installs": 3,
+  "views": 145,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-tower-defense.zip",
+  "file_size": 6697,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13324",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏开发"
+  ]
+}

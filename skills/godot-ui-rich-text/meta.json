@@ -1,0 +1,20 @@
+{
+  "id": 13286,
+  "name": "Godot富文本处理技能",
+  "en_name": "godot-ui-rich-text",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能专注于在Godot游戏引擎中使用RichTextLabel实现BBCode格式化文本，支持加粗、斜体、颜色、图片、链接等标准格式化，并提供自定义效果如波浪、彩虹、抖动、打字机效果。适用于游戏对话系统、UI文本格式化、动态内容显示等场景。关键词：Godot, RichTextLabel, BBCode, 游戏开发, UI设计, 文本格式化, 自定义效果, 对话系统, 着色器。",
+  "installs": 1,
+  "views": 119,
+  "updated": "2026-03-23",
+  "original_name": "godot-ui-rich-text.zip",
+  "file_size": 3502,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13286",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏开发"
+  ]
+}

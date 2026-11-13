@@ -1,0 +1,19 @@
+{
+  "id": 13285,
+  "name": "GodotUI主题化",
+  "en_name": "godot-ui-theming",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个在 Godot 游戏引擎中实现用户界面主题化的专业技能，包括使用主题资源、StyleBoxes、自定义字体和主题覆盖来确保视觉一致性。适用于游戏开发和 UI 设计，支持动态主题切换和继承，关键词：Godot、UI主题、StyleBox、主题资源、字体管理、暗黑模式、游戏UI设计。",
+  "installs": 7,
+  "views": 108,
+  "updated": "2026-03-23",
+  "original_name": "godot-ui-theming.zip",
+  "file_size": 3656,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13285",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

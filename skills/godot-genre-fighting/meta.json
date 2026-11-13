@@ -1,0 +1,22 @@
+{
+  "id": 13344,
+  "name": "Godot格斗游戏开发专家蓝图",
+  "en_name": "godot-genre-fighting",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个专为Godot引擎设计的格斗游戏开发技能，涵盖帧数据、输入缓冲、连击系统、角色状态和回滚网络代码等核心机制，适用于开发竞争性2D/3D格斗游戏。关键词：格斗游戏、帧数据、输入缓冲、Godot开发、游戏引擎、竞争平衡。",
+  "installs": 0,
+  "views": 188,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-fighting.zip",
+  "file_size": 6096,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13344",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

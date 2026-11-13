@@ -1,0 +1,20 @@
+{
+  "id": 1976,
+  "name": "面部动画技能",
+  "en_name": "facial-animation",
+  "category": "Maya动画",
+  "parent_category": "三维与游戏",
+  "description": "该技能专注于角色面部动画的制作与实现，核心功能包括混合形状（Blend Shapes）的驱动与唇形同步（Lip Sync）技术。它通过读取、处理和生成面部动画数据，帮助开发者或动画师高效创建逼真、流畅的角色面部表情与口型动画。关键词：面部动画，混合形状，唇形同步，角色动画，表情驱动，口型同步，动画技术。",
+  "installs": 1,
+  "views": 70,
+  "updated": "2026-02-25",
+  "original_name": "facial-animation.zip",
+  "file_size": 435,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1976",
+  "found_via": [
+    "category:Maya动画",
+    "category:三维与游戏",
+    "search:动画"
+  ]
+}

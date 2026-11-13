@@ -1,0 +1,21 @@
+{
+  "id": 1995,
+  "name": "Godot物理引擎技能",
+  "en_name": "godot-physics",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能专注于在Godot游戏引擎中实现和配置物理系统。核心功能包括：刚体（RigidBody）动力学配置、碰撞层与遮罩管理、射线与形状投射（Ray/Shape Casting）、区域（Area）触发器设置以及物理材质应用。适用于游戏开发中实现角色移动、物体交互、碰撞检测、物理模拟等核心玩法，是构建具有真实物理反馈的2D或3D游戏的关键工具。关键词：Godot物理，游戏开发，碰撞检测，刚体模拟，射线投射，物理引擎，游戏物理。",
+  "installs": 1,
+  "views": 61,
+  "updated": "2026-02-25",
+  "original_name": "godot-physics.zip",
+  "file_size": 952,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1995",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot",
+    "search:玩法"
+  ]
+}

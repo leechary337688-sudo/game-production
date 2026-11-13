@@ -1,0 +1,20 @@
+{
+  "id": 13313,
+  "name": "Godot粒子系统技能",
+  "en_name": "godot-particles",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了使用Godot游戏引擎创建高性能GPU粒子系统的专家指南，用于视觉特效（VFX）、环境效果和视觉反馈。关键词包括GPUParticles2D、ParticleProcessMaterial、emission_shape、color_ramp、sub_emitter、one_shot。",
+  "installs": 11,
+  "views": 286,
+  "updated": "2026-03-23",
+  "original_name": "godot-particles.zip",
+  "file_size": 4079,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13313",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏"
+  ]
+}

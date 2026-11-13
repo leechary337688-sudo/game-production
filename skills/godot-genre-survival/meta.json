@@ -1,0 +1,21 @@
+{
+  "id": 13325,
+  "name": "Godot生存游戏设计",
+  "en_name": "godot-genre-survival",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是关于使用Godot引擎设计和开发生存游戏的专家蓝图，提供资源管理、需要系统、制作配方、基地建设和进展平衡的全面指导。它帮助开发者构建开放世界生存、制作中心或资源管理游戏，提升游戏体验和设计效率。关键词：生存游戏、需要系统、资源收集、制作系统、库存管理、基地建设、游戏开发、Godot引擎。",
+  "installs": 3,
+  "views": 126,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-survival.zip",
+  "file_size": 5190,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13325",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏开发",
+    "search:游戏设计"
+  ]
+}

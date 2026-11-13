@@ -1,0 +1,22 @@
+{
+  "id": 13374,
+  "name": "Godot2D动画专家指南",
+  "en_name": "godot-2d-animation",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了在Godot游戏引擎中实现高级2D动画的专家级指导，涵盖AnimatedSprite2D的使用、骨骼动画、动画同步、性能优化和程序化动画技巧。适用于游戏开发者优化动画效果和提升游戏体验。关键词：Godot, 2D动画, AnimatedSprite2D, 骨骼动画, 动画同步, 游戏开发, 帧动画, 程序化动画, 性能优化。",
+  "installs": 6,
+  "views": 204,
+  "updated": "2026-03-23",
+  "original_name": "godot-2d-animation.zip",
+  "file_size": 6453,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13374",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:动画",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

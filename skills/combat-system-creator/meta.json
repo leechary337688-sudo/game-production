@@ -1,0 +1,19 @@
+{
+  "id": 4496,
+  "name": "CombatSystemCreator-SHINOBIWAY",
+  "en_name": "combat-system-creator",
+  "category": "战斗系统设计",
+  "parent_category": "游戏开发",
+  "description": "这是一个用于创建和修改SHINOBI WAY游戏中战斗系统组件的工具，遵循双系统架构，专注于战斗机制的纯计算与状态管理分离，适用于添加新战斗特性和重构现有战斗代码。",
+  "installs": 0,
+  "views": 17,
+  "updated": "2026-03-03",
+  "original_name": "combat-system-creator.zip",
+  "file_size": 15879,
+  "github_project": "aiskillstore",
+  "url": "https://www.skillsbot.cn/skill/4496",
+  "found_via": [
+    "category:游戏开发",
+    "search:战斗"
+  ]
+}

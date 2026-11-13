@@ -1,0 +1,18 @@
+{
+  "id": 13310,
+  "name": "Godot控制台平台开发技能",
+  "en_name": "godot-platform-console",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了使用 Godot 游戏引擎为控制台平台（如 PlayStation、Xbox、Nintendo Switch）开发游戏的专家指南，涵盖控制器优先设计、认证要求（TRCs/TCRs）、平台服务（如成就和云存档）和性能优化，确保游戏通过控制台平台认证并优化用户体验。关键词：Godot、控制台、游戏开发、认证、平台服务、性能。",
+  "installs": 0,
+  "views": 25,
+  "updated": "2026-03-23",
+  "original_name": "godot-platform-console.zip",
+  "file_size": 2549,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13310",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

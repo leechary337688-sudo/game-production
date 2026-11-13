@@ -1,0 +1,23 @@
+{
+  "id": 13357,
+  "name": "Godot战斗系统",
+  "en_name": "godot-combat-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "Godot战斗系统是一个专家级的技能，用于在Godot游戏引擎中构建灵活、基于组件的战斗系统。它涵盖了命中框、伤害框、伤害计算、生命值管理、战斗状态机、连击系统、技能冷却和伤害弹窗等关键组件，适用于动作游戏、RPG和格斗游戏的开发。关键词：Hitbox, Hurtbox, DamageData, HealthComponent, 战斗状态, 连击系统, 技能冷却, 无敌帧, 伤害弹窗, Godot游戏开发, 游戏战斗系统。",
+  "installs": 6,
+  "views": 225,
+  "updated": "2026-03-23",
+  "original_name": "godot-combat-system.zip",
+  "file_size": 4133,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13357",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:RPG",
+    "search:战斗",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13311,
+  "name": "Godot3D物理开发技能",
+  "en_name": "godot-physics-3d",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供Godot游戏引擎中3D物理开发的专家指导，涵盖Ragdoll模拟、关节约束、碰撞优化等，使用Jolt或PhysX插件，适用于游戏角色物理和复杂交互。关键词：Godot, 3D物理, Jolt, PhysX, Ragdoll, 游戏开发, 物理引擎。",
+  "installs": 0,
+  "views": 30,
+  "updated": "2026-03-23",
+  "original_name": "godot-physics-3d.zip",
+  "file_size": 3112,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13311",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D"
+  ]
+}

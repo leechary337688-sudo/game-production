@@ -1,0 +1,19 @@
+{
+  "id": 13300,
+  "name": "RPG技能系统",
+  "en_name": "godot-rpg-stats",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "用于验证角色是否满足使用特定技能的条件，包括等级和属性要求。适用于RPG游戏中的技能系统，关键词：技能验证、属性检查、等级限制、角色能力、游戏开发、SEO优化。",
+  "installs": 0,
+  "views": 38,
+  "updated": "2026-03-23",
+  "original_name": "godot-rpg-stats.zip",
+  "file_size": 4106,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13300",
+  "found_via": [
+    "category:游戏开发",
+    "search:RPG"
+  ]
+}

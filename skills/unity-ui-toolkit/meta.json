@@ -1,0 +1,21 @@
+{
+  "id": 2060,
+  "name": "UnityUI界面开发工具包",
+  "en_name": "unity-ui-toolkit",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "Unity UI Toolkit技能是专为Unity游戏引擎设计的用户界面开发工具集，用于创建运行时和编辑器界面。它基于UXML（XML结构）定义界面布局，通过USS（样式表）进行样式控制，并支持自定义可视化元素和数据绑定。该技能适用于游戏UI、工具插件界面和编辑器扩展的开发，能实现高效、可维护且响应式的界面设计。关键词：Unity UI开发，UXML模板，USS样式，游戏界面，数据绑定，可视化元素，UI Toolkit，Unity编辑器扩展。",
+  "installs": 9,
+  "views": 379,
+  "updated": "2026-02-25",
+  "original_name": "unity-ui-toolkit.zip",
+  "file_size": 1836,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2060",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:Unity",
+    "search:游戏"
+  ]
+}

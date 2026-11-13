@@ -1,0 +1,19 @@
+{
+  "id": 1999,
+  "name": "houdini",
+  "en_name": "houdini",
+  "category": "Maya动画",
+  "parent_category": "三维与游戏",
+  "description": "Houdini技能是一个专注于程序化资产创建和HDA（Houdini数字资产）部署的工具。它集成了Houdini引擎，支持在外部应用程序中运行Houdini程序化内容，实现高效的批量处理、自动化生成和跨平台引擎集成，广泛应用于游戏开发、影视特效和三维可视化等领域。关键词：Houdini引擎，程序化生成，HDA开发，批量处理，三维建模，游戏开发工具，影视特效。",
+  "installs": 0,
+  "views": 66,
+  "updated": "2026-02-25",
+  "original_name": "houdini.zip",
+  "file_size": 484,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1999",
+  "found_via": [
+    "category:Maya动画",
+    "category:三维与游戏"
+  ]
+}

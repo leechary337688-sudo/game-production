@@ -1,0 +1,18 @@
+{
+  "id": 13319,
+  "name": "GodotMCP场景构建器",
+  "en_name": "godot-mcp-scene-builder",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能用于通过Godot MCP工具程序化构建和修改Godot游戏场景，实现场景自动化生成和节点层次管理。关键词：Godot, MCP, 场景自动化, 程序化构建, 游戏开发。",
+  "installs": 0,
+  "views": 47,
+  "updated": "2026-03-23",
+  "original_name": "godot-mcp-scene-builder.zip",
+  "file_size": 3554,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13319",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

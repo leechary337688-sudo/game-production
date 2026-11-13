@@ -1,0 +1,21 @@
+{
+  "id": 13297,
+  "name": "Godot着色器基础",
+  "en_name": "godot-shaders-basics",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供使用Godot引擎进行着色器编程的全面指南，涵盖2D和3D视觉特效、后期处理、材质定制，并包括性能优化和最佳实践。关键词：Godot着色器、GLSL编程、游戏开发视觉特效、图形渲染。",
+  "installs": 1,
+  "views": 135,
+  "updated": "2026-03-23",
+  "original_name": "godot-shaders-basics.zip",
+  "file_size": 4301,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13297",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot",
+    "search:游戏开发"
+  ]
+}

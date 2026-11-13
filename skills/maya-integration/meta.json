@@ -1,0 +1,24 @@
+{
+  "id": 2006,
+  "name": "Maya集成技能",
+  "en_name": "maya-integration",
+  "category": "Maya动画",
+  "parent_category": "三维与游戏",
+  "description": "该技能专注于3D动画与游戏开发流程，实现Maya软件与游戏引擎（如Unity、Unreal Engine）之间的高效数据交换。核心功能包括FBX模型导出、角色骨骼绑定工作流、动画数据导出以及自动化MEL/Python脚本编写，是三维动画制作、游戏资产创建和影视特效管线中不可或缺的环节。关键词：Maya集成，FBX导出，角色绑定，动画导出，游戏开发管道，MEL脚本，Python自动化。",
+  "installs": 8,
+  "views": 106,
+  "updated": "2026-02-25",
+  "original_name": "maya-integration.zip",
+  "file_size": 497,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2006",
+  "found_via": [
+    "category:Maya动画",
+    "category:三维与游戏",
+    "search:3D",
+    "search:Maya",
+    "search:Unity",
+    "search:Unreal",
+    "search:动画"
+  ]
+}

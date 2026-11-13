@@ -1,0 +1,18 @@
+{
+  "id": 2004,
+  "name": "细节层次技能",
+  "en_name": "lod",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能专注于游戏开发中的细节层次（LOD）系统实现，主要用于优化3D模型的渲染性能。核心功能包括：根据摄像机距离自动生成和切换不同精度的网格模型（LOD网格生成）、构建层次化细节层次系统（HLOD）、实现高效的基于距离的模型切换机制，以及创建用于远距离显示的简化替代物（如广告牌或简模）。适用于游戏引擎开发、3D图形优化和实时渲染性能提升等场景。\n\n关键词：LOD系统，网格简化，HLOD，游戏优化，3D渲染，性能优化，细节层次，游戏开发，实时图形",
+  "installs": 0,
+  "views": 20,
+  "updated": "2026-02-25",
+  "original_name": "lod.zip",
+  "file_size": 503,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2004",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 13348,
+  "name": "火球术",
+  "en_name": "godot-genre-action-rpg",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "火球术是Action RPG游戏中的主动技能，消耗法力值，对目标区域造成范围伤害，具有冷却时间。适用于远程攻击和AOE清怪。关键词：Action RPG, 技能, 火球术, 伤害, 冷却时间, 游戏开发。",
+  "installs": 0,
+  "views": 59,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-action-rpg.zip",
+  "file_size": 7596,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13348",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:RPG"
+  ]
+}

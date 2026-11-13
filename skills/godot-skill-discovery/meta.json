@@ -1,0 +1,18 @@
+{
+  "id": 13295,
+  "name": "GDSkills技能发现",
+  "en_name": "godot-skill-discovery",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个用于 GDSkills 系统的技能发现和索引工具，帮助 AI 代理或开发者通过主题和关键词搜索技能，支持元数据解析、索引生成和相关性搜索。关键词：技能发现、索引、搜索、元数据、GDSkills。",
+  "installs": 0,
+  "views": 19,
+  "updated": "2026-03-23",
+  "original_name": "godot-skill-discovery.zip",
+  "file_size": 4983,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13295",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

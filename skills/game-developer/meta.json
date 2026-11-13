@@ -1,0 +1,25 @@
+{
+  "id": 121,
+  "name": "游戏开发者",
+  "en_name": "game-developer",
+  "category": "",
+  "parent_category": "",
+  "description": "游戏开发者技能专注于使用主流游戏引擎（如Unity、Unreal Engine、Godot）进行互动娱乐软件的开发、设计与优化。核心能力包括游戏玩法编程、2D/3D图形渲染、物理系统、多人网络架构、VR/AR体验开发以及性能调优。该技能涵盖从原型设计到最终发布的完整游戏开发流程，强调模块化设计、数据驱动和跨平台性能。关键词：游戏开发，Unity，Unreal Engine，游戏编程，图形优化，多人游戏，VR开发，游戏引擎，C#，C++，游戏设计。",
+  "installs": 7,
+  "views": 448,
+  "updated": "2026-02-23",
+  "original_name": "game-developer-skill.zip",
+  "file_size": 4582,
+  "github_project": "404kidwiz",
+  "url": "https://www.skillsbot.cn/skill/121",
+  "found_via": [
+    "search:3D",
+    "search:Godot",
+    "search:Unity",
+    "search:Unreal",
+    "search:游戏",
+    "search:游戏开发",
+    "search:游戏设计",
+    "search:玩法"
+  ]
+}

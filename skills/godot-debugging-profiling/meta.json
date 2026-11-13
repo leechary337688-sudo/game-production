@@ -1,0 +1,19 @@
+{
+  "id": 13354,
+  "name": "Godot调试与性能分析",
+  "en_name": "godot-debugging-profiling",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了在Godot游戏引擎中进行高效调试和性能分析的专家指南。它包括打印调试方法（如push_warning、push_error、assert）、断点设置、Godot调试器使用、性能监控工具（如时间分析器和内存监视器）、错误处理模式和性能优化技巧。适用于游戏开发中的bug修复、性能调优和开发诊断。关键词：Godot调试、性能分析、游戏开发、bug修复、优化工具。",
+  "installs": 0,
+  "views": 73,
+  "updated": "2026-03-23",
+  "original_name": "godot-debugging-profiling.zip",
+  "file_size": 4749,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13354",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

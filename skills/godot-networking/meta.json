@@ -1,0 +1,18 @@
+{
+  "id": 1994,
+  "name": "Godot网络开发技能",
+  "en_name": "godot-networking",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "Godot网络技能专为游戏开发者设计，提供完整的多人游戏网络解决方案。该技能涵盖Godot引擎的高级网络API配置、远程过程调用（RPC）实现、实时数据同步和点对点网络连接管理。适用于开发多人在线游戏、实时协作应用和分布式游戏系统，支持可靠传输和本地调用优化，帮助开发者快速构建稳定高效的网络游戏功能。",
+  "installs": 0,
+  "views": 32,
+  "updated": "2026-02-25",
+  "original_name": "godot-networking.zip",
+  "file_size": 866,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1994",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

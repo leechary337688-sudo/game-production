@@ -1,0 +1,22 @@
+{
+  "id": 13305,
+  "name": "程序化内容生成专家",
+  "en_name": "godot-procedural-generation",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能专精于在Godot游戏引擎中实现程序化内容生成，用于自动创建游戏中的地牢、地形、战利品和关卡。采用FastNoiseLite、随机行走、BSP树、波函数坍缩和种子随机化等技术，适用于开发roguelike游戏、沙盒游戏和动态内容项目。关键词：程序化生成、Godot、FastNoiseLite、Perlin噪声、BSP、波函数坍缩、随机化、游戏开发。",
+  "installs": 1,
+  "views": 192,
+  "updated": "2026-03-23",
+  "original_name": "godot-procedural-generation.zip",
+  "file_size": 4951,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13305",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:关卡",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

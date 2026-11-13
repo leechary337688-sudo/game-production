@@ -1,0 +1,18 @@
+{
+  "id": 13358,
+  "name": "GodotCharacterBody2D专家实现",
+  "en_name": "godot-characterbody-2d",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供在Godot引擎中使用CharacterBody2D进行2D角色移动的专家级实现模式，包括平台移动（如coyote时间、跳跃缓冲、可变跳跃高度）、顶部移动（8方向、坦克控制）、碰撞处理、单向平台和状态机等。适用于游戏开发、角色控制和物理模拟。关键词：Godot, CharacterBody2D, 2D游戏开发, 移动控制, 物理引擎, coyote_time, jump_buffer, 平台移动, 碰撞处理。",
+  "installs": 0,
+  "views": 14,
+  "updated": "2026-03-23",
+  "original_name": "godot-characterbody-2d.zip",
+  "file_size": 6221,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13358",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

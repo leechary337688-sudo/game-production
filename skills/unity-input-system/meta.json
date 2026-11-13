@@ -1,0 +1,19 @@
+{
+  "id": 2055,
+  "name": "Unity输入系统配置技能",
+  "en_name": "unity-input-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "Unity新输入系统配置与实现技能，专注于游戏开发中的输入处理。提供动作映射、设备绑定、控制方案配置和跨平台输入支持。关键词：Unity输入系统，游戏开发，输入处理，动作映射，设备绑定，控制方案，跨平台输入，C#脚本，交互设计，游戏控制器。",
+  "installs": 1,
+  "views": 43,
+  "updated": "2026-02-25",
+  "original_name": "unity-input-system.zip",
+  "file_size": 1813,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2055",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unity"
+  ]
+}

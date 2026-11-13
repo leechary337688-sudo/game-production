@@ -1,0 +1,22 @@
+{
+  "id": 13331,
+  "name": "Godot实时战略游戏开发蓝图",
+  "en_name": "godot-genre-rts",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个用于Godot引擎的专家级实时战略游戏开发蓝图，提供完整的RTS游戏实现方案，包括单位选择、命令系统、路径寻找、战争迷雾、资源经济和AI对手等核心机制。适用于开发基地建设或战术战斗类型的RTS游戏，方便开发者快速搭建和优化游戏系统。关键词：Godot、RTS游戏开发、单位选择、命令队列、路径寻找、战争迷雾、资源管理、AI行为树、游戏引擎。",
+  "installs": 9,
+  "views": 308,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-rts.zip",
+  "file_size": 5843,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13331",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:战斗",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

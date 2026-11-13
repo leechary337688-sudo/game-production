@@ -1,0 +1,19 @@
+{
+  "id": 13345,
+  "name": "教育游戏设计",
+  "en_name": "godot-genre-educational",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能提供使用Godot引擎开发教育游戏的专家指导，涵盖游戏化循环设计、进度跟踪系统、自适应难度调整等核心机制，旨在通过游戏化提升学习效果。关键词：教育游戏、游戏化、自适应难度、间隔重复、学生档案、课程树、掌握跟踪。",
+  "installs": 0,
+  "views": 34,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-educational.zip",
+  "file_size": 3723,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13345",
+  "found_via": [
+    "category:游戏开发",
+    "search:游戏设计"
+  ]
+}

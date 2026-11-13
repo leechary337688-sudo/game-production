@@ -1,0 +1,21 @@
+{
+  "id": 7476,
+  "name": "游戏UI状态管理",
+  "en_name": "gaming-ui-state-management",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能专注于构建游戏用户界面的状态管理组件，如健康条、经验条和法力条。它适用于RPG和复古风格游戏，通过状态驱动的视觉效果和动画提供交互反馈，支持前端开发和游戏开发。关键词：游戏UI、状态管理、进度条、健康条、经验条、法力条、前端开发、游戏开发、RPG界面、复古UI。",
+  "installs": 2,
+  "views": 126,
+  "updated": "2026-03-09",
+  "original_name": "gaming-ui-state-management.zip",
+  "file_size": 1465,
+  "github_project": "TheOrcDev",
+  "url": "https://www.skillsbot.cn/skill/7476",
+  "found_via": [
+    "category:游戏开发",
+    "search:RPG",
+    "search:动画",
+    "search:游戏开发"
+  ]
+}

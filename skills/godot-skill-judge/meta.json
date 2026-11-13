@@ -1,0 +1,18 @@
+{
+  "id": 13294,
+  "name": "Godot技能验证器",
+  "en_name": "godot-skill-judge",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个Godot游戏引擎的元技能，用于自动化验证其他技能的完整性和质量。它检查SKILL.md文件的存在、脚本语法错误和元数据完整性，确保技能库的高质量标准。关键词：技能验证、持续集成、质量保证、Godot兼容性、自动化测试、语法检查、元数据验证。",
+  "installs": 0,
+  "views": 21,
+  "updated": "2026-03-23",
+  "original_name": "godot-skill-judge.zip",
+  "file_size": 1841,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13294",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

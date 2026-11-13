@@ -1,0 +1,19 @@
+{
+  "id": 2079,
+  "name": "世界构成技能",
+  "en_name": "world-composition",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "世界构成技能是一种用于游戏开发中大型开放世界场景的流式处理技术。它通过世界分区系统，实现游戏场景的动态加载与卸载，优化内存使用和性能表现，支持无缝的大规模地图探索。关键词：开放世界，流式加载，世界分区，游戏开发，性能优化，动态加载，Unreal Engine，游戏引擎。",
+  "installs": 0,
+  "views": 34,
+  "updated": "2026-02-25",
+  "original_name": "world-composition.zip",
+  "file_size": 446,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2079",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unreal"
+  ]
+}

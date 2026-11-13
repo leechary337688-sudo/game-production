@@ -1,0 +1,20 @@
+{
+  "id": 13336,
+  "name": "Godot谜题游戏开发技能蓝图",
+  "en_name": "godot-genre-puzzle",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供在 Godot 游戏引擎中开发谜题游戏的专家级蓝图，涵盖撤销系统（命令模式）、网格逻辑、非语言教程、状态管理等核心功能，适用于创建逻辑谜题、物理谜题和匹配3游戏。关键词：谜题游戏开发、撤销系统、命令模式、网格逻辑、状态管理、Godot 引擎、游戏设计。",
+  "installs": 3,
+  "views": 58,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-puzzle.zip",
+  "file_size": 4134,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13336",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏设计"
+  ]
+}

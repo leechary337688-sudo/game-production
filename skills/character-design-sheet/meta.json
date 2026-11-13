@@ -1,0 +1,21 @@
+{
+  "id": 8955,
+  "name": "角色设计参考表生成",
+  "en_name": "character-design-sheet",
+  "category": "AIGC",
+  "parent_category": "人工智能",
+  "description": "本技能用于在AI生成的图像中保持角色一致性，通过创建参考表（如周转视图、表情表、服装表和调色板）、使用LoRA技术、详细描述锚等方法。它帮助用户确保多个图像中同一角色的视觉一致性，适用于角色设计、游戏美术、插画、动画、漫画、视觉小说等领域。关键词包括：角色设计、AI图像生成、一致性、参考表、LoRA、AIGC、AI艺术、计算机视觉。",
+  "installs": 1,
+  "views": 236,
+  "updated": "2026-03-12",
+  "original_name": "character-design-sheet.zip",
+  "file_size": 4032,
+  "github_project": "inference",
+  "url": "https://www.skillsbot.cn/skill/8955",
+  "found_via": [
+    "search:动画",
+    "search:游戏",
+    "search:美术",
+    "search:角色设计"
+  ]
+}

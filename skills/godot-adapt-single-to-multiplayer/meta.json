@@ -1,0 +1,19 @@
+{
+  "id": 13364,
+  "name": "Godot游戏多玩家适配技能",
+  "en_name": "godot-adapt-single-to-multiplayer",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了在Godot引擎中将单机游戏转换为多玩家游戏的专家指导，涵盖客户端-服务器架构、权威服务器设计、MultiplayerSynchronizer使用、延迟补偿技术（如客户端预测和服务器协调）、输入缓冲和防作弊措施。适用于游戏开发者需要为单机游戏添加多玩家功能的情况，确保游戏体验流畅和安全。关键词：Godot引擎、多玩家游戏、游戏开发、网络编程、延迟处理、防作弊、客户端预测、权威服务器。",
+  "installs": 0,
+  "views": 15,
+  "updated": "2026-03-23",
+  "original_name": "godot-adapt-single-to-multiplayer.zip",
+  "file_size": 6242,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13364",
+  "found_via": [
+    "category:游戏开发",
+    "search:玩家"
+  ]
+}

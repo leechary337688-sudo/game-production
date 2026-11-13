@@ -1,0 +1,19 @@
+{
+  "id": 13315,
+  "name": "Godot多人在线网络编程",
+  "en_name": "godot-multiplayer-networking",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是关于使用Godot游戏引擎进行多人在线网络编程的专家指南，涵盖RPC、状态同步、权威服务器、客户端预测和大厅系统，适用于开发在线多人在线游戏、LAN合作游戏或网络游戏。关键词：Godot, 多人在线网络, RPC, 状态同步, 游戏开发, 权威服务器, 客户端预测, 网络编程, 游戏引擎。",
+  "installs": 3,
+  "views": 72,
+  "updated": "2026-03-23",
+  "original_name": "godot-multiplayer-networking.zip",
+  "file_size": 5230,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13315",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

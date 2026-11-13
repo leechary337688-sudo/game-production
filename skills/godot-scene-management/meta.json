@@ -1,0 +1,20 @@
+{
+  "id": 13299,
+  "name": "Godot场景管理",
+  "en_name": "godot-scene-management",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于在Godot游戏引擎中管理场景的加载、转换和缓存，包括异步加载、淡入淡出过渡、实例池和资源优化，以确保游戏流程平滑和性能高效。关键词：Godot, 场景管理, 异步加载, 游戏开发, 资源加载, 过渡动画, 缓存管理。",
+  "installs": 1,
+  "views": 75,
+  "updated": "2026-03-23",
+  "original_name": "godot-scene-management.zip",
+  "file_size": 5725,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13299",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:动画"
+  ]
+}

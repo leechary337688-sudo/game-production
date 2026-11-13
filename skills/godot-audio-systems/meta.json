@@ -1,0 +1,21 @@
+{
+  "id": 13361,
+  "name": "Godot音频系统",
+  "en_name": "godot-audio-systems",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是关于Godot游戏引擎音频系统的专家指南，提供AudioStreamPlayer变体、AudioBus混音架构、动态效果、音频池化性能优化、音乐过渡和程序化音频生成等模式。适用于音乐系统设计、音效实现、空间音频配置和音频反应式游戏玩法开发。关键词：Godot、音频系统、AudioStreamPlayer、AudioBus、音频效果、音频池、音乐交叉淡入淡出、BPM同步、程序化音频。",
+  "installs": 3,
+  "views": 92,
+  "updated": "2026-03-23",
+  "original_name": "godot-audio-systems.zip",
+  "file_size": 7222,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13361",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:玩法",
+    "search:音效"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2056,
+  "name": "Unity网络编程技能",
+  "en_name": "unity-netcode",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "Unity Netcode for GameObjects 技能包，专为游戏开发者设计，用于快速构建多人联机游戏。核心功能包括服务器权威架构、实时状态同步、远程过程调用(RPC)和玩家网络管理。适用于Unity引擎下的多人在线游戏开发，支持客户端-服务器模式，确保游戏逻辑的同步与安全。关键词：Unity多人联机，Netcode状态同步，游戏网络编程，RPC远程调用，服务器权威架构，Unity网络开发，多人在线游戏制作。",
+  "installs": 1,
+  "views": 131,
+  "updated": "2026-02-25",
+  "original_name": "unity-netcode.zip",
+  "file_size": 1750,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2056",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:Unity",
+    "search:游戏开发",
+    "search:玩家"
+  ]
+}

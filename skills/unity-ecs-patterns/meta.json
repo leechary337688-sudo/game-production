@@ -1,0 +1,19 @@
+{
+  "id": 13237,
+  "name": "UnityECS模式",
+  "en_name": "unity-ecs-patterns",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于Unity的实体组件系统（ECS）、数据导向技术栈（DOTS）、作业系统和Burst编译器，用于开发高性能游戏，优化CPU密集型逻辑，管理大量实体，并实现并行处理。关键词：Unity ECS, DOTS, 游戏开发, 性能优化, 数据导向编程, Unity 开发, 实体组件系统, Burst编译器",
+  "installs": 0,
+  "views": 100,
+  "updated": "2026-03-22",
+  "original_name": "unity-ecs-patterns.zip",
+  "file_size": 4815,
+  "github_project": "wshobson",
+  "url": "https://www.skillsbot.cn/skill/13237",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unity"
+  ]
+}

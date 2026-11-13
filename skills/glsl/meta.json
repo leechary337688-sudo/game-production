@@ -1,0 +1,20 @@
+{
+  "id": 10255,
+  "name": "GLSL着色器编程技能",
+  "en_name": "glsl",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能专注于使用GLSL（OpenGL着色语言）着色器编程技术，为JARVIS AI助手HUD（抬头显示）创建全息视觉效果，包括扫描线、能量场、粒子系统等实时渲染效果。适用于数据可视化、后处理效果（如辉光、故障）等场景，强调GPU编程优化和性能安全。关键词：GLSL、着色器、全息效果、GPU编程、实时渲染、JARVIS、HUD、WebGL、图形编程。",
+  "installs": 3,
+  "views": 48,
+  "updated": "2026-03-15",
+  "original_name": "glsl.zip",
+  "file_size": 6126,
+  "github_project": "martinholovsky",
+  "url": "https://www.skillsbot.cn/skill/10255",
+  "found_via": [
+    "category:游戏开发",
+    "category:Unity开发",
+    "category:三维与游戏"
+  ]
+}

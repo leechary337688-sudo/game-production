@@ -1,0 +1,21 @@
+{
+  "id": 1959,
+  "name": "BSP几何技能",
+  "en_name": "bsp",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "BSP几何技能专为游戏关卡设计打造，主要用于在虚幻引擎（Unreal Engine）中高效创建和编辑笔刷（Brushes）及CSG（Constructive Solid Geometry，构造实体几何）模型。它提供了一套强大的工具集，帮助开发者快速搭建关卡原型、优化碰撞体积、进行布尔运算以及构建复杂的游戏场景几何结构。关键词：BSP几何，虚幻引擎，CSG，关卡设计，游戏开发，笔刷建模，构造实体几何，场景搭建。",
+  "installs": 0,
+  "views": 85,
+  "updated": "2026-02-25",
+  "original_name": "bsp.zip",
+  "file_size": 424,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1959",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:Unreal",
+    "search:关卡"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2020,
+  "name": "物理引擎",
+  "en_name": "physics-engine",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "物理引擎集成技能，专为游戏开发设计，提供刚体动力学模拟、碰撞检测、物理材质设置和约束系统等核心功能，用于实现游戏中的真实物理交互和效果。关键词：物理引擎，游戏开发，刚体动力学，碰撞检测，Unity，Unreal Engine。",
+  "installs": 0,
+  "views": 35,
+  "updated": "2026-02-25",
+  "original_name": "physics-engine.zip",
+  "file_size": 499,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2020",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:Unity",
+    "search:Unreal"
+  ]
+}

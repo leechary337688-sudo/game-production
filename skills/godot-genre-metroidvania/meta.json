@@ -1,0 +1,20 @@
+{
+  "id": 13341,
+  "name": "GodotMetroidvania游戏开发蓝图",
+  "en_name": "godot-genre-metroidvania",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供了使用Godot引擎开发Metroidvania类型游戏的详细蓝图，包括核心循环设计、能力门控系统、持久状态管理、无缝房间过渡和地图系统实现。关键词：Metroidvania游戏开发, Godot引擎, 能力门控, 互联世界设计, 游戏架构, 游戏设计模式。",
+  "installs": 0,
+  "views": 77,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-metroidvania.zip",
+  "file_size": 4827,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13341",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏设计"
+  ]
+}

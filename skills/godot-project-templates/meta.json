@@ -1,0 +1,21 @@
+{
+  "id": 13303,
+  "name": "Godot项目模板技能",
+  "en_name": "godot-project-templates",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供Godot游戏引擎的专业项目模板，适用于2D平台游戏、俯视视角RPG和3D FPS等游戏类型，包括目录结构、AutoLoad模式和核心系统，帮助开发者快速启动新项目、优化架构设计，并避免常见错误。关键词：Godot, 项目模板, 游戏开发, 2D平台游戏, RPG, FPS, AutoLoad, 场景结构。",
+  "installs": 2,
+  "views": 70,
+  "updated": "2026-03-23",
+  "original_name": "godot-project-templates.zip",
+  "file_size": 3468,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13303",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot",
+    "search:RPG"
+  ]
+}

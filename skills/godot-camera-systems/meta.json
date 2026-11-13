@@ -1,0 +1,21 @@
+{
+  "id": 13359,
+  "name": "Godot相机系统",
+  "en_name": "godot-camera-systems",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供Godot游戏引擎中2D和3D相机控制的专家级模式，包括平滑跟随、相机抖动、超前预测、相机过渡等功能。适用于玩家相机、电影序列或多相机系统，关键词包括Camera2D、Camera3D、SpringArm3D、position_smoothing、camera_shake等，便于SEO搜索。",
+  "installs": 4,
+  "views": 58,
+  "updated": "2026-03-23",
+  "original_name": "godot-camera-systems.zip",
+  "file_size": 6084,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13359",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot",
+    "search:玩家"
+  ]
+}

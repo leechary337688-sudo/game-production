@@ -1,0 +1,18 @@
+{
+  "id": 10778,
+  "name": "算法艺术生成",
+  "en_name": "AlgorithmicArtGeneration",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能专注于使用p5.js框架、随机种子和粒子系统创建算法艺术，用于生成艺术、探索计算美学和构建互动可视化。关键词包括：算法艺术、生成艺术、p5.js、计算美学、互动可视化、随机种子、粒子系统、生成艺术算法。",
+  "installs": 0,
+  "views": 23,
+  "updated": "2026-03-16",
+  "original_name": "algorithmic-art.zip",
+  "file_size": 3498,
+  "github_project": "lifangda",
+  "url": "https://www.skillsbot.cn/skill/10778",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

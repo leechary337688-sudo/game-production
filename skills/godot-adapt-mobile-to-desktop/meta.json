@@ -1,0 +1,18 @@
+{
+  "id": 13365,
+  "name": "移动游戏桌面适配技能",
+  "en_name": "godot-adapt-mobile-to-desktop",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供专家指南，用于使用Godot游戏引擎将移动游戏适配到桌面平台。它包括控制方案扩展（如鼠标键盘替代触摸）、图形增强（如分辨率缩放和设置菜单）、UI布局优化、窗口管理以及平台特定功能（如Steam集成）。关键词：Godot、游戏开发、跨平台适配、桌面优化、移动游戏扩展、控制优化、图形设置、UI设计、窗口管理、Steam集成。",
+  "installs": 0,
+  "views": 25,
+  "updated": "2026-03-23",
+  "original_name": "godot-adapt-mobile-to-desktop.zip",
+  "file_size": 6173,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13365",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

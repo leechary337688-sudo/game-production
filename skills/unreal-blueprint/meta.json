@@ -1,0 +1,24 @@
+{
+  "id": 2063,
+  "name": "虚幻蓝图",
+  "en_name": "unreal-blueprint",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "虚幻蓝图技能是专为虚幻引擎游戏开发设计的可视化脚本工具。它允许开发者无需编写传统代码，通过节点连接的方式快速实现游戏逻辑、交互事件、函数封装和系统通信。核心功能包括事件图构建、可复用函数与宏创建、变量与数据结构管理以及蓝图间的接口通信。适用于游戏原型开发、玩法逻辑实现和视觉化编程，大幅提升游戏开发效率，尤其适合策划、美术和技术美术人员参与游戏逻辑制作。关键词：虚幻引擎，蓝图，可视化脚本，游戏开发，节点编程，快速原型，UE5，游戏逻辑。",
+  "installs": 15,
+  "views": 449,
+  "updated": "2026-02-25",
+  "original_name": "unreal-blueprint.zip",
+  "file_size": 1481,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2063",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:Unreal",
+    "search:游戏",
+    "search:游戏开发",
+    "search:玩法",
+    "search:美术"
+  ]
+}

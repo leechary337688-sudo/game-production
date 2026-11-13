@@ -1,0 +1,18 @@
+{
+  "id": 13308,
+  "name": "Godot移动平台开发蓝图",
+  "en_name": "godot-platform-mobile",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能是Godot引擎的移动平台开发专家蓝图，涵盖Android和iOS平台的触摸控制、虚拟摇杆、响应式UI设计、安全区域处理、电池优化和应用商店合规指南。适用于开发者在移动设备上实现高效、用户友好的游戏和应用。关键词：Godot, 移动开发, 触摸输入, 虚拟摇杆, 安全区域, 电池优化, 应用商店指南, SEO搜索。",
+  "installs": 0,
+  "views": 47,
+  "updated": "2026-03-23",
+  "original_name": "godot-platform-mobile.zip",
+  "file_size": 3107,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13308",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

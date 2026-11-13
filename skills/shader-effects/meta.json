@@ -1,0 +1,19 @@
+{
+  "id": 2033,
+  "name": "着色器效果",
+  "en_name": "shader-effects",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "着色器效果技能提供了一系列在游戏开发中常用的视觉特效实现方案，包括溶解、描边、全息、卡通、水和火等效果。这些基于着色器编程的技术，能够显著提升游戏画面的表现力和沉浸感，是游戏图形开发的核心组成部分。",
+  "installs": 0,
+  "views": 74,
+  "updated": "2026-02-25",
+  "original_name": "shader-effects.zip",
+  "file_size": 544,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2033",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏"
+  ]
+}

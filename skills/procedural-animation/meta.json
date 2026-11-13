@@ -1,0 +1,22 @@
+{
+  "id": 2025,
+  "name": "程序化动画",
+  "en_name": "procedural-animation",
+  "category": "Maya动画",
+  "parent_category": "三维与游戏",
+  "description": "程序化动画技能专注于在运行时生成动态、逼真的动画效果，尤其适用于游戏开发、影视制作和虚拟现实领域。核心功能包括逆向运动学（IK）解算器，用于精确控制角色关节运动；物理驱动运动，模拟真实物理交互如重力、碰撞；程序化移动，自动生成角色行走、奔跑等基础动作；以及次级运动，为头发、衣物等添加自然摆动细节。该技能通过算法替代关键帧动画，提升开发效率与动画真实感。",
+  "installs": 3,
+  "views": 169,
+  "updated": "2026-02-25",
+  "original_name": "procedural-animation.zip",
+  "file_size": 499,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2025",
+  "found_via": [
+    "category:Maya动画",
+    "category:三维与游戏",
+    "search:动画",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

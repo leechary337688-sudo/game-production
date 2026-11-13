@@ -1,0 +1,20 @@
+{
+  "id": 13369,
+  "name": "Godot游戏能力系统",
+  "en_name": "godot-ability-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能系统专为Godot游戏引擎设计，提供构建RPG和动作游戏中角色能力系统的专家级模式，包括冷却管理、连击系统、技能树、升级路径和资源管理，适用于游戏开发中的技能实现和角色进展。关键词：Godot、能力系统、游戏开发、技能树、冷却策略、连击、角色能力、游戏引擎、可扩展系统。",
+  "installs": 0,
+  "views": 98,
+  "updated": "2026-03-23",
+  "original_name": "godot-ability-system.zip",
+  "file_size": 6802,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13369",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:RPG"
+  ]
+}

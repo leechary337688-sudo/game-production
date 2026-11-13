@@ -1,0 +1,21 @@
+{
+  "id": 13320,
+  "name": "Godot大师技能",
+  "en_name": "godot-master",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是一个全面的Godot 4.x游戏开发专家知识库，提供架构设计、工作流程、性能优化、多平台开发等专业指导，帮助开发者高效构建高质量Godot项目。关键词：Godot开发，游戏架构，性能优化，多平台，专家指南。",
+  "installs": 91,
+  "views": 3732,
+  "updated": "2026-03-23",
+  "original_name": "godot-master.zip",
+  "file_size": 361142,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13320",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

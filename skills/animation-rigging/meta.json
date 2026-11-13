@@ -1,0 +1,20 @@
+{
+  "id": 1951,
+  "name": "动画绑定",
+  "en_name": "animation-rigging",
+  "category": "Maya动画",
+  "parent_category": "三维与游戏",
+  "description": "动画绑定技能是用于角色动画制作的专业技术，主要涉及角色骨骼系统的搭建与约束控制，特别是反向动力学（IK）约束的应用。该技能用于创建高效、自然的角色动画控制系统，提升动画制作效率与质量。关键词：角色绑定，IK约束，动画制作，骨骼系统，三维动画，游戏开发，影视特效。",
+  "installs": 1,
+  "views": 74,
+  "updated": "2026-02-25",
+  "original_name": "animation-rigging.zip",
+  "file_size": 435,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1951",
+  "found_via": [
+    "category:Maya动画",
+    "category:三维与游戏",
+    "search:动画"
+  ]
+}

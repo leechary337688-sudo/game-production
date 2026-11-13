@@ -1,0 +1,21 @@
+{
+  "id": 13355,
+  "name": "Godot组合架构",
+  "en_name": "godot-composition",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供在Godot游戏引擎中使用组合模式（实体-组件系统）构建可扩展游戏的专家级架构指南。适用于设计玩家控制、NPC、敌人、武器等复杂系统，强调模块化、代码重用和“Has-A”关系，提升开发效率和可维护性。关键词：Entity-Component, ECS, 游戏开发, Godot, 组件化架构, 玩家控制, NPC, 敌人, 武器, 游戏循环, 关卡设计。",
+  "installs": 1,
+  "views": 83,
+  "updated": "2026-03-23",
+  "original_name": "godot-composition.zip",
+  "file_size": 4200,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13355",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:关卡",
+    "search:玩家"
+  ]
+}

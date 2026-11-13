@@ -1,0 +1,22 @@
+{
+  "id": 1972,
+  "name": "AI导演技能",
+  "en_name": "director-ai",
+  "category": "游戏策划",
+  "parent_category": "三维与游戏",
+  "description": "AI导演技能是一款专为游戏设计的智能控制系统，主要用于游戏节奏控制、动态难度调整、事件触发和玩家状态监测。通过实时分析玩家行为数据，AI导演能够动态调整游戏难度和事件节奏，确保玩家获得流畅且富有挑战性的游戏体验。关键词：AI导演、游戏节奏控制、动态难度调整、事件触发、玩家压力监测、游戏AI、智能游戏系统、自适应难度。",
+  "installs": 4,
+  "views": 184,
+  "updated": "2026-02-25",
+  "original_name": "director-ai.zip",
+  "file_size": 511,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1972",
+  "found_via": [
+    "category:三维与游戏",
+    "category:游戏策划",
+    "search:游戏",
+    "search:游戏设计",
+    "search:玩家"
+  ]
+}

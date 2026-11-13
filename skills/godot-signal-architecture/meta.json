@@ -1,0 +1,19 @@
+{
+  "id": 13296,
+  "name": "Godot信号架构",
+  "en_name": "godot-signal-architecture",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是关于在Godot游戏引擎中使用信号驱动架构，实现松耦合的事件系统。它提供了定义类型化信号、管理信号连接、使用AutoLoad事件总线进行跨场景通信的最佳实践模式。适用于游戏开发中的事件处理、UI交互、节点解耦等场景，提升代码可维护性和扩展性。关键词：Godot信号、事件总线、松耦合架构、游戏开发、事件系统、信号模式、类型化信号、信号链。",
+  "installs": 1,
+  "views": 97,
+  "updated": "2026-03-23",
+  "original_name": "godot-signal-architecture.zip",
+  "file_size": 6337,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13296",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

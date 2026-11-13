@@ -1,0 +1,19 @@
+{
+  "id": 2051,
+  "name": "UnityCinemachine技能",
+  "en_name": "unity-cinemachine",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "Unity Cinemachine 技能是一个用于游戏开发的程序化摄像机系统工具。它专注于实现动态、智能的摄像机控制，包括创建虚拟摄像机、配置跟随与注视目标、设置摄像机行为（如抖动、碰撞）、管理摄像机之间的平滑过渡与混合，以及制作电影级过场动画序列。该技能是 Unity 游戏引擎中实现专业级摄像机逻辑的核心组件，适用于角色跟随、镜头切换、电影叙事等场景。\n\n关键词：Unity Cinemachine，虚拟摄像机，程序化摄像机，摄像机控制，电影序列，游戏开发，过场动画，摄像机抖动，摄像机过渡，Unity 插件",
+  "installs": 0,
+  "views": 49,
+  "updated": "2026-02-25",
+  "original_name": "unity-cinemachine.zip",
+  "file_size": 1624,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2051",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unity"
+  ]
+}

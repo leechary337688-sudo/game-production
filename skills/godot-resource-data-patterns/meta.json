@@ -1,0 +1,18 @@
+{
+  "id": 13301,
+  "name": "Godot资源数据模式",
+  "en_name": "godot-resource-data-patterns",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供Godot引擎中资源数据模式的设计指南，专注于使用Resource和RefCounted类创建可序列化、类型安全的数据结构，如物品数据库、角色状态等，适用于游戏开发中的数据系统实现，关键词：Godot, 资源, 数据模式, 游戏开发, 序列化, 类型化数组。",
+  "installs": 0,
+  "views": 30,
+  "updated": "2026-03-23",
+  "original_name": "godot-resource-data-patterns.zip",
+  "file_size": 6125,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13301",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

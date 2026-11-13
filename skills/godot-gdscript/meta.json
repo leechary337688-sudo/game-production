@@ -1,0 +1,20 @@
+{
+  "id": 1993,
+  "name": "GodotGDScript技能",
+  "en_name": "godot-gdscript",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "Godot GDScript 技能是专为 Godot 游戏引擎设计的脚本编程能力，涵盖 GDScript 语言核心特性、节点交互、性能优化和最佳实践模式。该技能适用于游戏开发者进行游戏逻辑实现、信号通信、协程处理、性能调优和代码架构设计，是开发 2D/3D 游戏、交互应用和实时模拟项目的关键技术。关键词：Godot 引擎，GDScript 编程，游戏开发，信号与协程，性能优化，节点管理，状态机，游戏脚本。",
+  "installs": 2,
+  "views": 60,
+  "updated": "2026-02-25",
+  "original_name": "godot-gdscript.zip",
+  "file_size": 1574,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1993",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot"
+  ]
+}

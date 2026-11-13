@@ -1,0 +1,23 @@
+{
+  "id": 1958,
+  "name": "Blender集成技能",
+  "en_name": "blender-integration",
+  "category": "Blender建模",
+  "parent_category": "三维与游戏",
+  "description": "该技能专注于构建Blender到游戏引擎的资产生产管道，核心功能包括GLTF/FBX格式导出、Blender插件开发、批量处理资产以及材质系统转换。适用于游戏开发、三维动画制作、实时渲染等场景，帮助团队高效管理三维资产工作流。\n\n关键词：Blender, GLTF导出, FBX导出, 游戏资产管道, 三维建模, 材质转换, 批量处理, 插件开发, 游戏开发工具",
+  "installs": 20,
+  "views": 1069,
+  "updated": "2026-02-25",
+  "original_name": "blender-integration.zip",
+  "file_size": 505,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1958",
+  "found_via": [
+    "category:Blender建模",
+    "category:三维与游戏",
+    "search:Blender",
+    "search:动画",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

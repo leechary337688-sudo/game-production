@@ -1,0 +1,20 @@
+{
+  "id": 2072,
+  "name": "虚幻纳米技术",
+  "en_name": "unreal-nanite",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "虚幻引擎纳米技术技能，专用于实现虚拟化几何、高效网格流式传输和无LOD工作流，适用于游戏开发、影视制作和三维设计领域的高保真资产处理。关键词：虚幻引擎、Nanite、虚拟化几何、网格流式传输、LOD、游戏开发、三维建模、性能优化、高多边形资产。",
+  "installs": 2,
+  "views": 60,
+  "updated": "2026-02-25",
+  "original_name": "unreal-nanite.zip",
+  "file_size": 1538,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2072",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:Unreal"
+  ]
+}

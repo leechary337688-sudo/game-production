@@ -1,0 +1,19 @@
+{
+  "id": 13352,
+  "name": "Godot经济系统",
+  "en_name": "godot-economy-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供游戏经济系统设计的专家指导，包括货币管理、商店系统、动态定价、掉落表等，适用于RPG、交易游戏或资源管理系统，帮助开发者构建平衡的游戏经济。关键词：EconomyManager, currency, shop_item, loot_table, dynamic_pricing, buy_sell_spread, currency_sink, inflation, item_rarity。",
+  "installs": 0,
+  "views": 26,
+  "updated": "2026-03-23",
+  "original_name": "godot-economy-system.zip",
+  "file_size": 3438,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13352",
+  "found_via": [
+    "category:游戏开发",
+    "search:RPG"
+  ]
+}

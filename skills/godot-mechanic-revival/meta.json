@@ -1,0 +1,19 @@
+{
+  "id": 13317,
+  "name": "Godot复活与重生机制",
+  "en_name": "godot-mechanic-revival",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能专为游戏开发设计，提供了一套完整的玩家死亡与复活管理框架。通过复活管理器、尸体奔跑掉落器和后果跟踪器等核心组件，开发者可以轻松实现类似《只狼》、《哈迪斯》中的风险/奖励系统。适用于Godot引擎，帮助构建具有挑战性和趣味性的游戏体验，包括复活机会、资源回收和动态难度调整。关键词：游戏开发、复活机制、Godot引擎、风险/奖励系统。",
+  "installs": 0,
+  "views": 53,
+  "updated": "2026-03-23",
+  "original_name": "godot-mechanic-revival.zip",
+  "file_size": 3569,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13317",
+  "found_via": [
+    "category:游戏开发",
+    "search:玩家"
+  ]
+}

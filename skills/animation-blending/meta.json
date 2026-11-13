@@ -1,0 +1,21 @@
+{
+  "id": 1950,
+  "name": "动画混合",
+  "en_name": "animation-blending",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "动画混合技能用于游戏开发中的动画融合系统，实现角色动作的平滑过渡与自然衔接。通过混合树（Blend Trees）技术，支持多动画状态间的权重混合、参数驱动切换，提升游戏角色动画的真实感和流畅度。关键词：动画混合、Blend Trees、游戏动画、状态机、权重融合、动作过渡、角色动画、Unity动画、Unreal动画、游戏开发。",
+  "installs": 4,
+  "views": 95,
+  "updated": "2026-02-25",
+  "original_name": "animation-blending.zip",
+  "file_size": 425,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1950",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unity",
+    "search:Unreal",
+    "search:动画"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13346,
+  "name": "Godot卡牌游戏开发蓝图",
+  "en_name": "godot-genre-card-game",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能提供在Godot游戏引擎中开发数字卡牌游戏的全面指南，涵盖卡牌数据管理、牌库系统、回合制逻辑、用户界面设计以及视觉效果实现。关键词：Godot，卡牌游戏，游戏开发，CCG，Deckbuilder，UI设计，效果解析，命令模式，数据驱动。",
+  "installs": 16,
+  "views": 714,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-card-game.zip",
+  "file_size": 4687,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13346",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

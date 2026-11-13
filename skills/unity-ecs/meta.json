@@ -1,0 +1,20 @@
+{
+  "id": 2053,
+  "name": "UnityECS技能",
+  "en_name": "unity-ecs",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "Unity ECS技能专注于使用Unity的面向数据技术栈（DOTS）、实体组件系统（ECS）、作业系统和Burst编译器，进行高性能游戏系统开发、数据导向设计、并行计算优化和游戏引擎底层性能调优。关键词：Unity ECS, DOTS, 实体组件系统, 作业系统, Burst编译器, 高性能游戏开发, 数据导向设计, Unity优化, 游戏引擎, 并行计算。",
+  "installs": 0,
+  "views": 40,
+  "updated": "2026-02-25",
+  "original_name": "unity-ecs.zip",
+  "file_size": 1926,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2053",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:Unity"
+  ]
+}

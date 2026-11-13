@@ -1,0 +1,23 @@
+{
+  "id": 12286,
+  "name": "游戏艺术",
+  "en_name": "game-art",
+  "category": "游戏策划",
+  "parent_category": "三维与游戏",
+  "description": "这个技能专注于游戏艺术设计原则，包括视觉风格选择、资产管道管理、颜色理论和动画工作流，旨在提升游戏美术质量和开发效率。关键词：游戏艺术，视觉设计，资产管道，动画原理，游戏开发。",
+  "installs": 15,
+  "views": 624,
+  "updated": "2026-03-21",
+  "original_name": "game-art.zip",
+  "file_size": 2402,
+  "github_project": "davila7",
+  "url": "https://www.skillsbot.cn/skill/12286",
+  "found_via": [
+    "category:三维与游戏",
+    "category:游戏策划",
+    "search:动画",
+    "search:游戏",
+    "search:游戏开发",
+    "search:美术"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2057,
+  "name": "Unity物理系统",
+  "en_name": "unity-physics",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "Unity物理技能是一个专注于在Unity游戏引擎中配置和实现物理系统的工具集。它涵盖了刚体动力学、碰撞检测、射线投射和物理参数设置等核心功能，帮助开发者高效地创建逼真的物理交互和游戏玩法。关键词：Unity物理，碰撞检测，刚体配置，射线投射，游戏开发，物理引擎，PhysX，Box2D。",
+  "installs": 0,
+  "views": 28,
+  "updated": "2026-02-25",
+  "original_name": "unity-physics.zip",
+  "file_size": 1657,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2057",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:Unity",
+    "search:玩法"
+  ]
+}

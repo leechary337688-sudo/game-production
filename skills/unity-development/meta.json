@@ -1,0 +1,21 @@
+{
+  "id": 2052,
+  "name": "Unity开发技能",
+  "en_name": "unity-development",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "Unity开发技能是一个AI辅助游戏开发工具，提供Unity引擎的全面集成能力。它支持C#脚本自动生成、场景管理、预制体创建、编辑器自动化、资产管道配置和跨平台构建。通过MCP服务器与Unity编辑器直接交互，实现智能化的游戏开发工作流，特别适用于AI驱动的游戏内容生成、自动化测试和项目管理工作。关键词：Unity开发，游戏引擎，C#脚本，AI辅助开发，编辑器自动化，预制体管理，场景构建，游戏资产，跨平台构建，MCP集成",
+  "installs": 19,
+  "views": 1210,
+  "updated": "2026-02-25",
+  "original_name": "unity-development.zip",
+  "file_size": 6032,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2052",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unity",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

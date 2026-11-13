@@ -1,0 +1,19 @@
+{
+  "id": 13306,
+  "name": "GodotWeb平台开发",
+  "en_name": "godot-platform-web",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于在Godot游戏引擎中开发和导出到Web平台（HTML5）的游戏或应用。它涵盖WebGL/WebGPU渲染、自定义加载屏幕、JavaScriptBridge集成、LocalStorage保存和大小优化等关键方面。适用于Web导出或实现浏览器特定功能，帮助开发者优化性能、确保兼容性和提升用户体验。关键词：Godot、Web平台、HTML5、WebGL、WebGPU、JavaScriptBridge、LocalStorage、游戏开发、浏览器集成、性能优化、SEO。",
+  "installs": 0,
+  "views": 79,
+  "updated": "2026-03-23",
+  "original_name": "godot-platform-web.zip",
+  "file_size": 2838,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13306",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

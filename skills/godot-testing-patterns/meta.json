@@ -1,0 +1,23 @@
+{
+  "id": 13292,
+  "name": "Godot测试模式专家指南",
+  "en_name": "godot-testing-patterns",
+  "category": "游戏测试",
+  "parent_category": "三维与游戏",
+  "description": "该技能提供了使用GUT框架进行Godot游戏开发的全面测试指南，涵盖单元测试、集成测试、模拟/存根模式、异步测试和验证技术，适用于测试驱动开发和游戏逻辑验证，提升代码质量和自动化测试效率。关键词：GUT、单元测试、集成测试、断言、模拟、存根、Godot、游戏测试、TDD、CI/CD。",
+  "installs": 8,
+  "views": 457,
+  "updated": "2026-03-23",
+  "original_name": "godot-testing-patterns.zip",
+  "file_size": 4818,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13292",
+  "found_via": [
+    "category:三维与游戏",
+    "category:游戏测试",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发",
+    "search:游戏测试"
+  ]
+}

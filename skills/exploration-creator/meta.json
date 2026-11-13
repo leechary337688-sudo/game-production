@@ -1,0 +1,20 @@
+{
+  "id": 4498,
+  "name": "探索系统创建器",
+  "en_name": "exploration-creator",
+  "category": "游戏设计",
+  "parent_category": "游戏开发",
+  "description": "为SHINOBI WAY游戏设计基于节点的探索内容创建系统，包含情报控制的路径选择和区域层级结构。",
+  "installs": 0,
+  "views": 23,
+  "updated": "2026-03-03",
+  "original_name": "exploration-creator.zip",
+  "file_size": 24733,
+  "github_project": "aiskillstore",
+  "url": "https://www.skillsbot.cn/skill/4498",
+  "found_via": [
+    "category:游戏开发",
+    "category:游戏设计",
+    "search:游戏设计"
+  ]
+}

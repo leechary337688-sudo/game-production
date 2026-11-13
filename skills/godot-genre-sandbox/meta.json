@@ -1,0 +1,22 @@
+{
+  "id": 13330,
+  "name": "Godot沙盒游戏开发蓝图",
+  "en_name": "godot-genre-sandbox",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供在Godot引擎中创建沙盒游戏的专家级蓝图，涵盖物理模拟、细胞自动机、玩家创造力、性能优化和代码示例，用于开发具有开放世界和创意工具的游戏。关键词：Godot, 沙盒游戏, 细胞自动机, 物理引擎, 游戏开发, 玩家创造, 区块管理, 涌现行为。",
+  "installs": 4,
+  "views": 187,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-sandbox.zip",
+  "file_size": 7306,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13330",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发",
+    "search:玩家"
+  ]
+}

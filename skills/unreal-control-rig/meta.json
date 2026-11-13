@@ -1,0 +1,20 @@
+{
+  "id": 2065,
+  "name": "虚幻控制装备",
+  "en_name": "unreal-control-rig",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "虚幻引擎控制装备技能，专注于游戏开发中的程序化动画制作。核心功能包括：控制装备蓝图开发、IK/FK系统实现、运行时骨骼修改、动画蓝图集成。适用于游戏角色动画、实时动作调整、逆向运动学解算等场景。关键词：虚幻引擎、控制装备、程序化动画、IK解算、动画蓝图、游戏开发、实时动画、骨骼控制。",
+  "installs": 0,
+  "views": 44,
+  "updated": "2026-02-25",
+  "original_name": "unreal-control-rig.zip",
+  "file_size": 1392,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2065",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:Unreal"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1986,
+  "name": "全局光照",
+  "en_name": "global-illumination",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "全局光照技能是计算机图形学中的核心技术，用于模拟光线在场景中的真实物理传播，包括直接光照和间接光照（如反射、折射、漫反射等），以生成高度逼真的渲染图像。它涵盖了从预计算的烘焙光照贴图到实时动态光照（如DDGI、Lumen）、屏幕空间近似以及基于光照探针的混合照明等多种解决方案。该技能是游戏开发、影视特效、三维可视化、虚拟现实（VR）和增强现实（AR）等领域实现高质量视觉表现的关键。\n\n关键词：全局光照，GI，光线追踪，实时渲染，烘焙光照，光照贴图，Lumen，DDGI，屏幕空间GI，光照探针，计算机图形学，游戏开发，3D渲染",
+  "installs": 1,
+  "views": 118,
+  "updated": "2026-02-25",
+  "original_name": "global-illumination.zip",
+  "file_size": 539,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1986",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:3D",
+    "search:游戏开发"
+  ]
+}

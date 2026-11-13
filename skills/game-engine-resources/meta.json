@@ -1,0 +1,23 @@
+{
+  "id": 9519,
+  "name": "游戏引擎资源",
+  "en_name": "game-engine-resources",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供游戏引擎开发资源的全面指南，涵盖商业和开源引擎，如Unity、Unreal Engine、Godot等，适用于游戏开发、引擎架构研究和游戏安全分析。关键词：游戏引擎、开发资源、Unity、Unreal Engine、Godot、开源引擎、安全研究。",
+  "installs": 11,
+  "views": 361,
+  "updated": "2026-03-13",
+  "original_name": "game-engine.zip",
+  "file_size": 1693,
+  "github_project": "gmh5225",
+  "url": "https://www.skillsbot.cn/skill/9519",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:Unity",
+    "search:Unreal",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

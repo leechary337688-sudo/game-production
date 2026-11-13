@@ -1,0 +1,19 @@
+{
+  "id": 13347,
+  "name": "Godot战斗皇家游戏开发技能",
+  "en_name": "godot-genre-battle-royale",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供了一个完整的蓝图，用于在Godot引擎中开发战斗皇家类型游戏。它包括区域缩小机制、网络优化、部署系统、战利品生成和性能优化。关键词包括战斗皇家、区域缩小、风暴伤害、部署系统、战利品生成、网络优化、相关性系统、快照插值。",
+  "installs": 0,
+  "views": 21,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-battle-royale.zip",
+  "file_size": 4650,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13347",
+  "found_via": [
+    "category:游戏开发",
+    "search:战斗"
+  ]
+}

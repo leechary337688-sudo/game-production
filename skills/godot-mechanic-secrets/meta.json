@@ -1,0 +1,18 @@
+{
+  "id": 13316,
+  "name": "Godot秘密与彩蛋机制",
+  "en_name": "godot-mechanic-secrets",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能为Godot游戏开发提供秘密和彩蛋机制的实现组件，包括输入序列监视、交互阈值触发和秘密持久性管理，方便开发者添加作弊码、隐藏成就等功能，关键词包括Godot、游戏开发、秘密、彩蛋、作弊码、输入序列、持久性。",
+  "installs": 0,
+  "views": 27,
+  "updated": "2026-03-23",
+  "original_name": "godot-mechanic-secrets.zip",
+  "file_size": 3785,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13316",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

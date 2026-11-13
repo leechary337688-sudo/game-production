@@ -1,0 +1,21 @@
+{
+  "id": 2071,
+  "name": "虚幻引擎MetaSounds技能",
+  "en_name": "unreal-metasounds",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "虚幻引擎MetaSounds技能专用于游戏音频开发，提供程序化音频生成、实时音频合成和高级音频图编辑功能。关键词包括：虚幻引擎、MetaSounds、程序化音频、实时合成、音频图、游戏音效、音频开发、游戏开发工具、音频编程、虚幻引擎5。",
+  "installs": 0,
+  "views": 105,
+  "updated": "2026-02-25",
+  "original_name": "unreal-metasounds.zip",
+  "file_size": 1420,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2071",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:Unreal",
+    "search:音效"
+  ]
+}

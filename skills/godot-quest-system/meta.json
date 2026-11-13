@@ -1,0 +1,20 @@
+{
+  "id": 13302,
+  "name": "Godot任务追踪系统",
+  "en_name": "godot-quest-system",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这是一个用于Godot游戏引擎的任务系统，通过基于资源的任务数据、信号驱动的更新和自动加载管理器，实现任务目标跟踪、进度管理、奖励分发和分支链功能，适用于RPG游戏或任务系统开发。关键词包括Godot、任务系统、任务跟踪、信号驱动、自动加载、游戏开发。",
+  "installs": 2,
+  "views": 103,
+  "updated": "2026-03-23",
+  "original_name": "godot-quest-system.zip",
+  "file_size": 4255,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13302",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:RPG"
+  ]
+}

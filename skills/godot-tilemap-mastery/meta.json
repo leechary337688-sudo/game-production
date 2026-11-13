@@ -1,0 +1,20 @@
+{
+  "id": 13290,
+  "name": "GodotTileMap精通",
+  "en_name": "godot-tilemap-mastery",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了Godot游戏引擎中TileMap和TileSet系统的全面掌握，专注于2D游戏关卡的高效设计和实现。它涵盖了地形自动贴图、物理层集成、自定义数据管理、导航集成以及运行时瓦片操作等核心主题。适用于开发网格基础的关卡或实现如可破坏瓦片等动态元素，关键词包括Godot、TileMap、TileSet、2D关卡设计、自动贴图、物理碰撞、自定义属性。",
+  "installs": 2,
+  "views": 76,
+  "updated": "2026-03-23",
+  "original_name": "godot-tilemap-mastery.zip",
+  "file_size": 6560,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13290",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:关卡"
+  ]
+}

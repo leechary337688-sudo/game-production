@@ -1,0 +1,22 @@
+{
+  "id": 13371,
+  "name": "Godot3DPBR材质专家",
+  "en_name": "godot-3d-materials",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "这个技能提供Godot引擎中3D PBR材质的专家级指导，包括StandardMaterial3D的使用、纹理设置、透明度模式、性能优化等，帮助游戏开发者创建逼真的3D表面和高效的工作流程。关键词：Godot, 3D材质, PBR, StandardMaterial3D, 纹理打包, 透明度, 着色器转换, 游戏开发。",
+  "installs": 0,
+  "views": 136,
+  "updated": "2026-03-23",
+  "original_name": "godot-3d-materials.zip",
+  "file_size": 6819,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13371",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏",
+    "search:3D",
+    "search:Godot",
+    "search:游戏开发"
+  ]
+}

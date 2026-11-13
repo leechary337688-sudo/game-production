@@ -1,0 +1,18 @@
+{
+  "id": 13366,
+  "name": "桌面到移动平台的Godot游戏移植技能",
+  "en_name": "godot-adapt-desktop-to-mobile",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "本技能提供将桌面游戏移植到移动平台的专家指导，涵盖触摸控制方案（如虚拟摇杆和手势检测）、UI缩放适配小屏幕、移动GPU性能优化、电池寿命管理和平台特定功能。关键词：TouchScreenButton、virtual_joystick、gesture_detector、mobile_optimization、battery_saving、Godot游戏开发、移动端适配、性能优化、游戏移植。",
+  "installs": 1,
+  "views": 53,
+  "updated": "2026-03-23",
+  "original_name": "godot-adapt-desktop-to-mobile.zip",
+  "file_size": 6607,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13366",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

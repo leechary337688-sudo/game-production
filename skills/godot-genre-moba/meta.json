@@ -1,0 +1,19 @@
+{
+  "id": 13340,
+  "name": "技能射击指示器",
+  "en_name": "godot-genre-moba",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能用于在MOBA游戏中实现鼠标跟随的技能射击指示器，绘制矩形指示器并在物理过程中旋转以预览技能范围，提升游戏交互和视觉效果。关键词：技能射击、指示器、鼠标跟随、MOBA游戏、Godot开发、游戏开发。",
+  "installs": 0,
+  "views": 57,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-moba.zip",
+  "file_size": 4384,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13340",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

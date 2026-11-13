@@ -1,0 +1,23 @@
+{
+  "id": 12284,
+  "name": "游戏设计",
+  "en_name": "game-design",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "游戏设计是一门专注于创建游戏内容、机制和体验的技能，涉及核心循环设计、游戏设计文档(GDD)结构、玩家心理学、难度平衡和进展设计，旨在开发引人入胜和平衡的游戏。关键词：游戏设计、核心循环、GDD、玩家心理学、难度平衡、进展设计、游戏开发、游戏策划。",
+  "installs": 28,
+  "views": 932,
+  "updated": "2026-03-21",
+  "original_name": "game-design.zip",
+  "file_size": 1431,
+  "github_project": "davila7",
+  "url": "https://www.skillsbot.cn/skill/12284",
+  "found_via": [
+    "category:游戏开发",
+    "search:游戏",
+    "search:游戏开发",
+    "search:游戏策划",
+    "search:游戏设计",
+    "search:玩家"
+  ]
+}

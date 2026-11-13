@@ -1,0 +1,19 @@
+{
+  "id": 13338,
+  "name": "Godot派对游戏开发蓝图",
+  "en_name": "godot-genre-party",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供使用Godot引擎创建派对游戏和迷你游戏集合的专家指南，涵盖本地多人输入管理、不对称游戏玩法、场景切换、持久计分和分屏渲染等核心功能。适用于快速开发社交游戏，如马里奥派对风格作品。关键词：游戏开发，Godot引擎，派对游戏，迷你游戏，本地多人游戏，不对称玩法，分屏渲染，动态输入映射。",
+  "installs": 0,
+  "views": 26,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-party.zip",
+  "file_size": 3658,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13338",
+  "found_via": [
+    "category:游戏开发",
+    "search:玩法"
+  ]
+}

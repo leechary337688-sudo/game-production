@@ -1,0 +1,21 @@
+{
+  "id": 13287,
+  "name": "GodotUI容器技能",
+  "en_name": "godot-ui-containers",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供Godot游戏引擎中UI容器的全面指南，专注于使用容器节点如HBoxContainer、VBoxContainer等构建响应式用户界面。涵盖自动布局、大小标志设置、锚点调整和动态布局策略，适用于游戏开发中的菜单系统、库存界面和自适应UI设计。关键词：Godot, UI容器, 响应式布局, HBoxContainer, VBoxContainer, GridContainer, 游戏开发, 界面设计。",
+  "installs": 5,
+  "views": 170,
+  "updated": "2026-03-23",
+  "original_name": "godot-ui-containers.zip",
+  "file_size": 3463,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13287",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

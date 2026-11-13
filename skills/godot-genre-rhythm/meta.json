@@ -1,0 +1,18 @@
+{
+  "id": 13334,
+  "name": "Godot节奏游戏开发专家蓝图",
+  "en_name": "godot-genre-rhythm",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供在Godot引擎中开发节奏游戏的全面蓝图，涵盖音频同步、音符高速公路、时间判断系统、评分和输入处理等核心功能。适用于游戏开发者、程序员和节奏游戏爱好者，帮助实现流畅的节奏游戏体验。关键词：节奏游戏开发、Godot引擎、音频同步、游戏编程、音符处理、时间判断、评分系统、输入处理。",
+  "installs": 0,
+  "views": 45,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-rhythm.zip",
+  "file_size": 5961,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13334",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

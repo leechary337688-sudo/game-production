@@ -1,0 +1,19 @@
+{
+  "id": 2015,
+  "name": "基于物理的渲染",
+  "en_name": "pbr-rendering",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "基于物理的渲染（PBR）技能专注于实现真实感图形渲染，核心包括BRDF光照模型、金属度/粗糙度等材质工作流、基于图像的照明（IBL）集成以及能量守恒原则。适用于游戏开发、影视特效和三维可视化领域，提升渲染的真实性和效率。",
+  "installs": 1,
+  "views": 80,
+  "updated": "2026-02-25",
+  "original_name": "pbr-rendering.zip",
+  "file_size": 548,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2015",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏"
+  ]
+}

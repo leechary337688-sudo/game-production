@@ -1,0 +1,20 @@
+{
+  "id": 13322,
+  "name": "Godot输入处理技能",
+  "en_name": "godot-input-handling",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于Godot游戏引擎中的输入处理，提供专家级的模式来管理键盘、鼠标、游戏手柄和触摸输入。它包括使用InputMap定义动作、处理InputEvent、支持控制器连接和切换、实现输入重绑定、设置死区以避免误操作，以及通过输入缓冲提升游戏响应性。适用于游戏开发者设置玩家控制、构建健壮的输入系统或增强游戏的可访问性。关键词：Godot, 输入处理, InputMap, InputEvent, 游戏手柄, 重绑定, 死区, 输入缓冲, 游戏开发。",
+  "installs": 4,
+  "views": 75,
+  "updated": "2026-03-23",
+  "original_name": "godot-input-handling.zip",
+  "file_size": 4054,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13322",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:玩家"
+  ]
+}

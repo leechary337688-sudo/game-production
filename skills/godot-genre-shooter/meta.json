@@ -1,0 +1,19 @@
+{
+  "id": 13329,
+  "name": "Godot射击游戏开发专家蓝图",
+  "en_name": "godot-genre-shooter",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能提供在Godot游戏引擎中构建第一人称射击(FPS)和第三人称射击(TPS)游戏的专家级指南，涵盖武器系统架构、后坐力模式控制、命中扫描与弹道物理实现、辅助瞄准优化、多人游戏预测和枪战手感提升。适用于开发竞争性射击游戏、大逃杀或战术FPS。关键词：Godot、射击游戏、武器系统、后坐力、命中扫描、弹道、辅助瞄准、多人预测、游戏开发。",
+  "installs": 1,
+  "views": 98,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-shooter.zip",
+  "file_size": 7093,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13329",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

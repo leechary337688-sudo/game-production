@@ -1,0 +1,18 @@
+{
+  "id": 1954,
+  "name": "资产优化",
+  "en_name": "asset-optimization",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "资产优化技能专注于游戏开发中的资源高效管理，通过网格优化、LOD（细节层次）生成、纹理预算控制和内存分析，提升游戏性能并降低硬件需求。适用于游戏开发者、3D艺术家和引擎工程师进行资源压缩和优化。",
+  "installs": 0,
+  "views": 22,
+  "updated": "2026-02-25",
+  "original_name": "asset-optimization.zip",
+  "file_size": 483,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1954",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

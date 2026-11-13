@@ -1,0 +1,22 @@
+{
+  "id": 2074,
+  "name": "虚幻引擎尼亚加拉视觉特效技能",
+  "en_name": "unreal-niagara",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "虚幻引擎尼亚加拉视觉特效技能，专注于使用虚幻引擎5的尼亚加拉系统创建和实现高性能的粒子模拟、GPU粒子特效以及程序化视觉特效。该技能涵盖从基础的粒子系统创建、发射器模块配置，到高级的流体模拟、网格粒子实现，以及与游戏逻辑的深度集成。适用于游戏开发、影视特效、实时渲染等领域，帮助开发者构建震撼的视觉体验。关键词：虚幻引擎，尼亚加拉，粒子特效，GPU粒子，视觉特效，游戏开发，实时渲染，VFX，程序化特效。",
+  "installs": 3,
+  "views": 181,
+  "updated": "2026-02-25",
+  "original_name": "unreal-niagara.zip",
+  "file_size": 1607,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2074",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏",
+    "search:Unreal",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

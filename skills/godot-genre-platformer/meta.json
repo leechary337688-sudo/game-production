@@ -1,0 +1,20 @@
+{
+  "id": 13337,
+  "name": "平台游戏开发蓝图(Godot)",
+  "en_name": "godot-genre-platformer",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "本技能提供使用Godot引擎开发高质量平台游戏的专家指导，涵盖精确移动机制（如缓冲跳跃和可变跳跃高度）、游戏感觉优化、关卡设计原则、收集系统和可访问性选项，基于Celeste和Hollow Knight的设计研究。关键词：Godot, 平台游戏, 游戏开发, 精确移动, 游戏感觉, 关卡设计",
+  "installs": 0,
+  "views": 103,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-platformer.zip",
+  "file_size": 5331,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13337",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:关卡"
+  ]
+}

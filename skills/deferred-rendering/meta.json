@@ -1,0 +1,19 @@
+{
+  "id": 1968,
+  "name": "延迟渲染",
+  "en_name": "deferred-rendering",
+  "category": "Unreal Engine",
+  "parent_category": "三维与游戏",
+  "description": "延迟渲染是一种计算机图形学技术，主要用于游戏开发和三维渲染领域。它通过将场景的几何信息（如位置、法线、颜色等）先渲染到多个缓冲区（G缓冲）中，然后在后续的着色阶段中，使用这些缓冲区数据进行光照计算和效果叠加（如贴花、屏幕空间环境光遮蔽SSAO）。这种方法能高效处理大量动态光源和复杂视觉效果，是提升实时渲染画面质量和性能的关键技能。\n\n关键词：延迟渲染，延迟着色，G缓冲，光照体积，贴花渲染，SSAO，游戏开发，三维渲染，实时渲染，图形学",
+  "installs": 0,
+  "views": 42,
+  "updated": "2026-02-25",
+  "original_name": "deferred-rendering.zip",
+  "file_size": 514,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1968",
+  "found_via": [
+    "category:Unreal Engine",
+    "category:三维与游戏"
+  ]
+}

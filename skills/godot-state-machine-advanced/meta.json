@@ -1,0 +1,18 @@
+{
+  "id": 13293,
+  "name": "Godot高级状态机（HSM与PushdownAutomata）",
+  "en_name": "godot-state-machine-advanced",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供在Godot游戏引擎中实现高级状态机的专家知识，包括层级有限状态机（HSM）和pushdown automata，用于管理复杂的AI和角色行为。适用于游戏开发中的状态管理系统设计，关键词：Godot、状态机、HSM、Pushdown Automata、游戏开发、AI行为。",
+  "installs": 1,
+  "views": 55,
+  "updated": "2026-03-23",
+  "original_name": "godot-state-machine-advanced.zip",
+  "file_size": 3607,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13293",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

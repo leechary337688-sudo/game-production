@@ -1,0 +1,18 @@
+{
+  "id": 1970,
+  "name": "破坏",
+  "en_name": "destruction",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "破坏技能专注于实现游戏或模拟环境中的可破坏物体与场景效果。核心功能包括网格破碎系统、碎片物理模拟、损伤传播机制以及性能优化管理。适用于游戏开发、影视特效、物理仿真等领域，提供逼真的物体破坏与坍塌效果。关键词：网格破碎、碎片物理、可破坏环境、损伤系统、物理引擎、游戏特效、性能优化、实时模拟。",
+  "installs": 0,
+  "views": 28,
+  "updated": "2026-02-25",
+  "original_name": "destruction.zip",
+  "file_size": 502,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1970",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

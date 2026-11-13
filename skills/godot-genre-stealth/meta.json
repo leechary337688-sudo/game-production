@@ -1,0 +1,18 @@
+{
+  "id": 13326,
+  "name": "Godot潜行游戏开发技能",
+  "en_name": "godot-genre-stealth",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供了在Godot游戏引擎中开发潜行游戏的全面指南，涵盖AI检测系统、视觉锥实现、声音传播、警戒状态管理、光影机制和系统化设计等关键技术。适用于构建潜行动作、战术潜入或沉浸式模拟游戏，帮助开发者创建敌人感知系统。关键词：Godot、潜行游戏、AI检测、视觉锥、声音传播、系统化设计、游戏开发、AI警戒、声音检测、光照水平。",
+  "installs": 0,
+  "views": 55,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-stealth.zip",
+  "file_size": 7988,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13326",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

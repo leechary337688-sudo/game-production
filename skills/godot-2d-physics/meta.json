@@ -1,0 +1,18 @@
+{
+  "id": 13373,
+  "name": "Godot2D物理系统",
+  "en_name": "godot-2d-physics",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供Godot游戏引擎中2D物理系统的专家指南，涵盖碰撞检测、触发器、raycasting和物理查询，适用于游戏开发中的碰撞层设置、触发区域实现和视线系统优化。关键词：Godot, 2D物理, 碰撞检测, Area2D, RayCast2D, PhysicsDirectSpaceState2D, 游戏开发, 物理查询",
+  "installs": 0,
+  "views": 34,
+  "updated": "2026-03-23",
+  "original_name": "godot-2d-physics.zip",
+  "file_size": 8385,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13373",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

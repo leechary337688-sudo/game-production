@@ -1,0 +1,18 @@
+{
+  "id": 1983,
+  "name": "游戏HUD技能",
+  "en_name": "game-hud",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "游戏HUD技能专注于游戏界面设计，特别是血条和小地图等抬头显示系统。该技能涵盖UI设计、游戏开发、用户体验优化、界面交互等关键词，适用于游戏开发者和界面设计师。",
+  "installs": 1,
+  "views": 84,
+  "updated": "2026-02-25",
+  "original_name": "game-hud.zip",
+  "file_size": 429,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1983",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

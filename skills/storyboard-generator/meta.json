@@ -1,0 +1,19 @@
+{
+  "id": 12484,
+  "name": "分镜故事板生成器",
+  "en_name": "storyboard-generator",
+  "category": "AIGC",
+  "parent_category": "人工智能",
+  "description": "分镜故事板生成器是一个基于人工智能的工具，用于自动润色故事线、拆分为分镜脚本，并批量生成风格一致的故事板插图。它支持多种视觉风格选择，调用Gemini API生成高质量图像，适用于影视制作、游戏开发、内容创作和AI生成内容（AIGC）等领域。关键词：故事板生成、分镜脚本、AI生成插图、Gemini API、视觉风格、批量生成、AIGC工具。",
+  "installs": 15,
+  "views": 1267,
+  "updated": "2026-03-21",
+  "original_name": "storyboard-generator.zip",
+  "file_size": 9116,
+  "github_project": "zephyrwang6",
+  "url": "https://www.skillsbot.cn/skill/12484",
+  "found_via": [
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

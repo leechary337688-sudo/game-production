@@ -1,0 +1,19 @@
+{
+  "id": 13333,
+  "name": "Roguelike游戏开发技能",
+  "en_name": "godot-genre-roguelike",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "本技能是关于使用Godot引擎开发Roguelike类型游戏的专家蓝图，涵盖程序化生成、元进度系统、运行状态管理、种子随机数生成、战利品系统等核心机制，旨在平衡挑战与可重玩性。适用于游戏开发者、程序设计师。关键词：游戏开发，Roguelike，Godot引擎，程序生成，元进度，永久死亡。",
+  "installs": 6,
+  "views": 104,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-roguelike.zip",
+  "file_size": 5827,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13333",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot"
+  ]
+}

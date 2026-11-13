@@ -1,0 +1,18 @@
+{
+  "id": 13307,
+  "name": "GodotVR平台开发",
+  "en_name": "godot-platform-vr",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于使用Godot引擎进行虚拟现实（VR）平台的开发，涵盖XR工具包（如OpenXR）、舒适设置（如渐晕和瞬移）、运动控制和高帧率要求。适用于VR游戏和应用开发，确保用户体验舒适和沉浸。关键词：Godot, VR开发, XR, OpenXR, 舒适性, 性能优化, 游戏开发。",
+  "installs": 0,
+  "views": 33,
+  "updated": "2026-03-23",
+  "original_name": "godot-platform-vr.zip",
+  "file_size": 2791,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13307",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

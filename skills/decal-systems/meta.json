@@ -1,0 +1,18 @@
+{
+  "id": 1966,
+  "name": "贴花系统",
+  "en_name": "decal-systems",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "该技能专注于贴花投影技术，主要用于在三维场景或物体表面生成和投射冲击痕迹、标记、纹理等视觉元素。核心功能包括贴花创建、投影定位、材质处理以及与开发工具的集成。适用于游戏开发、影视特效、模拟仿真等领域，用于增强场景真实感和细节表现。\n\n关键词：贴花投影，冲击痕迹，三维贴花，游戏特效，视觉标记，纹理投射，Decal系统，实时渲染",
+  "installs": 0,
+  "views": 19,
+  "updated": "2026-02-25",
+  "original_name": "decal-systems.zip",
+  "file_size": 428,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1966",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

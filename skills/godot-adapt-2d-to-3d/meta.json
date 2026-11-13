@@ -1,0 +1,19 @@
+{
+  "id": 13368,
+  "name": "Godot2D转3D适配技能",
+  "en_name": "godot-adapt-2d-to-3d",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供专家指导，帮助开发者使用Godot引擎将2D游戏项目迁移到3D。它涵盖节点类型转换、物理层迁移、相机系统设置、艺术管线转换、性能优化等方面。关键词：Godot, 2D转3D, 游戏开发, 迁移指南, 3D转换, 适配模式, 优化",
+  "installs": 0,
+  "views": 28,
+  "updated": "2026-03-23",
+  "original_name": "godot-adapt-2d-to-3d.zip",
+  "file_size": 6391,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13368",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D"
+  ]
+}

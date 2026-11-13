@@ -1,0 +1,23 @@
+{
+  "id": 1989,
+  "name": "Godot2D游戏开发",
+  "en_name": "godot-2d",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "本技能专注于使用 Godot 引擎进行 2D 游戏开发，核心功能包括瓦片地图（TileMap）系统搭建、像素完美渲染实现、2D 物理引擎应用、摄像机与视差背景配置。适用于独立游戏开发者、游戏美术、以及希望快速上手 2D 游戏制作的程序员。关键词：Godot 2D， 游戏开发， 瓦片地图， 像素完美渲染， 2D 物理， 独立游戏， 游戏引擎。",
+  "installs": 1,
+  "views": 112,
+  "updated": "2026-02-25",
+  "original_name": "godot-2d.zip",
+  "file_size": 793,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1989",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:像素",
+    "search:游戏开发",
+    "search:独立游戏",
+    "search:美术"
+  ]
+}

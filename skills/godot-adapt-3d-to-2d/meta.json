@@ -1,0 +1,20 @@
+{
+  "id": 13367,
+  "name": "Godot3D转2D游戏简化技能",
+  "en_name": "godot-adapt-3d-to-2d",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供在Godot游戏引擎中将3D游戏转换为2D游戏的专家指导，涵盖维度减少策略、摄像机扁平化、物理转换、3D模型到精灵的艺术管道和控制简化，适用于性能优化、快速原型设计和移动平台适配。关键词：Godot、3D转2D、游戏开发、性能优化、维度减少、摄像机转换、物理调整、精灵转换、移动开发。",
+  "installs": 0,
+  "views": 61,
+  "updated": "2026-03-23",
+  "original_name": "godot-adapt-3d-to-2d.zip",
+  "file_size": 6180,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13367",
+  "found_via": [
+    "category:游戏开发",
+    "search:3D",
+    "search:Godot"
+  ]
+}

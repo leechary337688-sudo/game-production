@@ -1,0 +1,20 @@
+{
+  "id": 13335,
+  "name": "Godot赛车游戏开发",
+  "en_name": "godot-genre-racing",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是使用Godot引擎开发赛车游戏的专家指南，涵盖车辆物理、检查点系统、橡皮筋AI、漂移机制、相机效果和UI实现。关键词包括Godot、赛车游戏、游戏开发、车辆物理、检查点系统、橡皮筋AI、漂移、相机效果。",
+  "installs": 1,
+  "views": 109,
+  "updated": "2026-03-23",
+  "original_name": "godot-genre-racing.zip",
+  "file_size": 4722,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13335",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏开发"
+  ]
+}

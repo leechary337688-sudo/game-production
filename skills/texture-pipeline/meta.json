@@ -1,0 +1,19 @@
+{
+  "id": 2044,
+  "name": "纹理处理管线",
+  "en_name": "texture-pipeline",
+  "category": "Unity开发",
+  "parent_category": "三维与游戏",
+  "description": "纹理处理管线技能是一个专注于游戏和图形应用开发的工具，主要用于纹理资源的优化处理。核心功能包括纹理压缩（支持多种格式）、图集化（将多个小纹理合并为大图以减少Draw Call）、Mipmaps生成（为不同距离生成不同分辨率纹理以提高渲染性能）和流式纹理处理（动态加载纹理以节省内存）。该技能适用于游戏开发、三维渲染、图形引擎优化等领域，能显著提升应用性能和资源管理效率。",
+  "installs": 1,
+  "views": 54,
+  "updated": "2026-02-25",
+  "original_name": "texture-pipeline.zip",
+  "file_size": 484,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2044",
+  "found_via": [
+    "category:Unity开发",
+    "category:三维与游戏"
+  ]
+}

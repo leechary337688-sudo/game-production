@@ -1,0 +1,18 @@
+{
+  "id": 13309,
+  "name": "Godot桌面平台开发技能",
+  "en_name": "godot-platform-desktop",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能是Godot引擎的桌面平台开发专家蓝图，专注于为Windows、Linux和macOS平台提供键盘鼠标控制、设置菜单、窗口管理、键位重映射和Steam集成等功能。用于实现桌面游戏的高质量用户界面和用户体验，确保跨平台兼容性和用户自定义选项。关键词：Godot, 桌面开发, 游戏设置, 键位绑定, Steam集成, 窗口管理。",
+  "installs": 0,
+  "views": 50,
+  "updated": "2026-03-23",
+  "original_name": "godot-platform-desktop.zip",
+  "file_size": 3224,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13309",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

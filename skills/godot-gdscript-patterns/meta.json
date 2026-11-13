@@ -1,0 +1,18 @@
+{
+  "id": 13238,
+  "name": "GodotGDScript设计模式",
+  "en_name": "godot-gdscript-patterns",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能专注于Godot 4游戏开发中的GDScript设计模式，涵盖信号通信、场景管理、状态机、资源数据、对象池、组件系统、场景管理和保存系统等核心概念，适用于游戏架构设计、性能优化和最佳实践学习。关键词：Godot, GDScript, 设计模式, 游戏开发, 信号, 场景, 状态机, 优化。",
+  "installs": 0,
+  "views": 43,
+  "updated": "2026-03-22",
+  "original_name": "godot-gdscript-patterns.zip",
+  "file_size": 5770,
+  "github_project": "wshobson",
+  "url": "https://www.skillsbot.cn/skill/13238",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

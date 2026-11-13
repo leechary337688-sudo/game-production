@@ -1,0 +1,21 @@
+{
+  "id": 13304,
+  "name": "Godot项目组织基础",
+  "en_name": "godot-project-foundations",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "这个技能提供Godot 4游戏项目的组织专家蓝图，涵盖特征基础文件夹结构、命名约定（如snake_case文件、PascalCase节点）、版本控制最佳实践（.gitignore、.gdignore），以及避免常见错误的指南。关键词：Godot，项目组织，命名约定，版本控制，游戏开发，特征基础。",
+  "installs": 1,
+  "views": 178,
+  "updated": "2026-03-23",
+  "original_name": "godot-project-foundations.zip",
+  "file_size": 7204,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13304",
+  "found_via": [
+    "category:游戏开发",
+    "search:Godot",
+    "search:游戏",
+    "search:游戏开发"
+  ]
+}

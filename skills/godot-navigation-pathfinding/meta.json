@@ -1,0 +1,18 @@
+{
+  "id": 13314,
+  "name": "Godot导航与路径查找",
+  "en_name": "godot-navigation-pathfinding",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "此技能提供在Godot游戏引擎中实现AI路径查找的专家指南，涵盖导航设置、避障、动态网格生成等，适用于游戏开发中的敌人AI、NPC移动和障碍物避障。关键词：Godot、导航、路径查找、AI、避障、NavigationAgent2D、NavigationServer。",
+  "installs": 1,
+  "views": 46,
+  "updated": "2026-03-23",
+  "original_name": "godot-navigation-pathfinding.zip",
+  "file_size": 4227,
+  "github_project": "thedivergentai",
+  "url": "https://www.skillsbot.cn/skill/13314",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

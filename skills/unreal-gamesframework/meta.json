@@ -1,0 +1,20 @@
+{
+  "id": 2068,
+  "name": "虚幻引擎游戏玩法能力系统技能",
+  "en_name": "unreal-gamesframework",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "虚幻引擎GAS技能是一个专门用于实现复杂游戏机制的专业工具包。它基于虚幻引擎的游戏玩法能力系统（Gameplay Ability System），提供属性管理、技能创建、效果实现等核心功能。关键词：虚幻引擎，游戏开发，GAS系统，技能系统，属性管理，游戏效果，多人游戏，蓝图集成，游戏机制，UE5开发。",
+  "installs": 0,
+  "views": 43,
+  "updated": "2026-02-25",
+  "original_name": "unreal-gamesframework.zip",
+  "file_size": 1531,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/2068",
+  "found_via": [
+    "category:游戏开发",
+    "search:Unreal",
+    "search:玩法"
+  ]
+}

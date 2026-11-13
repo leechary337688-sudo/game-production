@@ -1,0 +1,18 @@
+{
+  "id": 1962,
+  "name": "布料模拟",
+  "en_name": "cloth-simulation",
+  "category": "游戏开发",
+  "parent_category": "软件开发",
+  "description": "布料模拟技能专注于实现逼真的布料与软体物理效果，核心功能包括布料约束系统、风效模拟、碰撞检测与处理，以及性能优化。适用于游戏开发、影视特效、三维动画等领域，关键词：布料物理、软体动力学、碰撞处理、物理模拟、游戏特效、性能优化。",
+  "installs": 0,
+  "views": 29,
+  "updated": "2026-02-25",
+  "original_name": "cloth-simulation.zip",
+  "file_size": 506,
+  "github_project": "a5c",
+  "url": "https://www.skillsbot.cn/skill/1962",
+  "found_via": [
+    "category:游戏开发"
+  ]
+}

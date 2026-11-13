@@ -1,0 +1,19 @@
+{
+  "id": 7365,
+  "name": "角色命名",
+  "en_name": "character-naming",
+  "category": "AI应用",
+  "parent_category": "人工智能",
+  "description": "该技能通过外部熵和工具脚本，帮助作家生成多样化、文化一致的角色名称，避免大型语言模型（LLM）的统计默认偏差。适用于小说创作、游戏设计等场景，提供命名诊断、生成和碰撞检查功能。关键词：角色命名、LLM、外部熵、文化一致性、命名生成、写作辅助、幻想名称。",
+  "installs": 4,
+  "views": 262,
+  "updated": "2026-03-09",
+  "original_name": "character-naming.zip",
+  "file_size": 5413,
+  "github_project": "jwynia",
+  "url": "https://www.skillsbot.cn/skill/7365",
+  "found_via": [
+    "search:游戏",
+    "search:游戏设计"
+  ]
+}
